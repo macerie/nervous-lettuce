@@ -13,29 +13,35 @@ sections:
   - component: features_block.html
     featureslist:
       - actions:
-          - label: Get Started
+          - label: Le colture
             url: docs/index.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Documentation
+          Coltiviamo l'**ulivo** per produrre **olive da olio**; gli **orti**
+          per ricavarne **pomodori**, **bietole**, **patate** primaticce,
+          **mais** da tavola, **melanzane**, **topinambur**, **cipolle**,
+          **peperoni** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
+          come **limoni**, **aranci** e **kumquat** nelle colline più esposte al
+          sole ed al riparo dal vento.
+        title: Agricoltura
       - actions:
-          - label: View Posts
+          - label: Le piante
             url: blog/index.html
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Blog
+          Mettiamo a dimora in campo aperto **palme** ed altre piante
+          **ornamentali** e da **giardino**. Curiamo le foglie delle nostre
+          piante per poter fornire **fronda recisa** all'ingrosso ed al
+          dettaglio.
+        title: Vivaismo
       - actions:
-          - label: Learn More
+          - label: Skills
             url: /style-guide.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Style Guides
-    section_id: features
+          VerdeRAM ha tra i propri obiettivi quello di **informatizzare** ed
+          **automatizzare** i processi di **produzione** e di **gestione** delle
+          **colture** ed è in grado di fornire **consulenza informatica** per la
+          progettazione e l'amministrazione di **reti** e di **sistemi**.
+        title: Informatica
+    section_id: Attività
     type: featuresblock
   - actions:
       - label: View Demo
@@ -44,12 +50,14 @@ sections:
         url: /docs/getting-started/index.html
     component: content_block.html
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
+      **VerdeRAM** è, prima di tutto, un'azienda **agricola** ed **olivicola**
+      incentrata sul territorio dei comuni di
+      [**Leivi**](http://www.comune.leivi.ge.it) e di
+      [**Chiavari**](http://www.comune.chiavari.ge.it), in provincia di
+      **Genova**.
+    image: /images/biotr.jpg
     section_id: text-img
-    title: A Section With An Image
+    title: Agricoltura
     type: contentblock
   - component: features_block.html
     featureslist:
