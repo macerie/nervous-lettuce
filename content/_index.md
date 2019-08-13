@@ -18,8 +18,7 @@ sections:
         content: >-
           Coltiviamo l'**ulivo** per produrre **olive da olio**; gli **orti**
           per ricavarne **pomodori**, **bietole**, **patate** primaticce,
-          **mais** da tavola, **melanzane**, **topinambur**, **cipolle**,
-          **peperoni** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
+          **melanzane**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
           come **limoni**, **aranci** e **kumquat** nelle colline più esposte al
           sole ed al riparo dal vento.
         title: 'Agricoltura'
@@ -59,6 +58,36 @@ sections:
     section_id: text-img
     title: Agricoltura
     type: contentblock
+  - actions:
+      - label: Colture
+        url: /docs/getting-started/index.html
+      - label: Appezzamenti
+        url: /docs/getting-started/index.html
+    component: content_block_right.html
+    content: >-
+      **VerdeRAM** è, prima di tutto, un'azienda **agricola** ed **olivicola**
+      incentrata sul territorio dei comuni di
+      [**Leivi**](http://www.comune.leivi.ge.it) e di
+      [**Chiavari**](http://www.comune.chiavari.ge.it), in provincia di
+      **Genova**.
+    image: /images/biotr.jpg
+    title: Vivaismo
+    type: contentblock    
+  - actions:
+      - label: Skills
+        url: /docs/getting-started/index.html
+      - label: Appezzamenti
+        url: /docs/getting-started/index.html
+    component: content_block.html
+    content: >-
+      **VerdeRAM** è, prima di tutto, un'azienda **agricola** ed **olivicola**
+      incentrata sul territorio dei comuni di
+      [**Leivi**](http://www.comune.leivi.ge.it) e di
+      [**Chiavari**](http://www.comune.chiavari.ge.it), in provincia di
+      **Genova**.
+    image: /images/biotr.jpg
+    title: Informatica
+    type: contentblock        
   - component: features_block.html
     featureslist:
       - actions:
