@@ -1,7 +1,7 @@
-title: Stackbit Libris Theme
+title: 'Agricoltura, vivaismo ed informatica'
 baseURL: /
 params:
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:
