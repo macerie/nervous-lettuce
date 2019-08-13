@@ -1,3 +1,6 @@
-content: '&copy; VerdeRAM di Valerio Sanguineti'
-links: []
+content: 'contents &copy; VerdeRAM di Valerio Sanguineti - structure &copy; Stackbit-Libris. All rights reserved.'
+links: 
+ - text: Stackabit
+   url: 'https://www.stackabit.com'
+   new_window: true
 has_social: false
