@@ -8,7 +8,7 @@ sections:
     content: 'Con un''altra **terra** in mente, con un''altra **mente** in terra.'
     image: /images/hdr01.jpg
     section_id: hero
-    title: Hero Section
+    title: VerdeRAM
     type: heroblock
   - component: features_block.html
     featureslist:
