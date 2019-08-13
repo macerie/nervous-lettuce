@@ -1,5 +1,15 @@
 title: 'Agricoltura, vivaismo ed informatica'
 baseURL: /
+defaultContentLanguage: "it"
+languages:
+ it:
+  lang: "it"
+  languageName: "Italiano"
+  weight: 1
+ en:
+  lang: "en"
+  languageName: "English"
+  weight: 2  
 params:
   palette: green
   palettes:
@@ -31,3 +41,5 @@ menu:
       weight: 6
 disableKinds:
   - RSS
+  - robotsTXT
+  - "404"

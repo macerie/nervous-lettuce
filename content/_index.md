@@ -33,7 +33,7 @@ sections:
           dettaglio.
         title: Vivaismo
       - actions:
-          - label: Skills
+          - label: Le competenze
             url: /style-guide.html
         content: >-
           VerdeRAM ha tra i propri obiettivi quello di **informatizzare** ed
@@ -44,9 +44,9 @@ sections:
     section_id: Attività
     type: featuresblock
   - actions:
-      - label: View Demo
+      - label: Colture
         url: /docs/getting-started/index.html
-      - label: Get Started
+      - label: Appezzamenti
         url: /docs/getting-started/index.html
     component: content_block.html
     content: >-
@@ -82,7 +82,7 @@ sections:
     title: Sample Layouts
     type: featuresblock
   - actions:
-      - label: Get Started
+      - label: Appezzamenti
         url: /docs/getting-started/installation.html
     component: cta_block.html
     section_id: cta
