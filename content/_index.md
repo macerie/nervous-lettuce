@@ -22,7 +22,7 @@ sections:
           **peperoni** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
           come **limoni**, **aranci** e **kumquat** nelle colline più esposte al
           sole ed al riparo dal vento.
-        title: Agricoltura
+        title: 'Agricoltura'
       - actions:
           - label: Le piante
             url: blog/index.html

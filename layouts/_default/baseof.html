@@ -20,8 +20,12 @@
           {{ partial "footer.html" . }}
         </div><!-- .site -->
         <!-- Scripts -->
-        <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
-        <script src="{{ "assets/js/prism.js" | relURL }}" data-manual></script>
-        <script src="{{ "assets/js/main.js" | relURL }}"></script>
+        <script data-no-instant src="{{ "assets/js/instantclick.min.js" | relURL }}" data-manual></script>        
+        <script data-no-instant src="{{ "assets/js/plugins.js" | relURL }}"></script>
+        <script data-no-instant src="{{ "assets/js/prism.js" | relURL }}" data-manual></script>
+        <script data-no-instant src="{{ "assets/js/main.js" | relURL }}"></script>
+        <script data-no-instant>
+            InstantClick.init();
+        </script>
     </body> 
 </html>
