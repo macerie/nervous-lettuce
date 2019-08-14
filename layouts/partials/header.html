@@ -5,7 +5,7 @@
         {{ if .Site.Data.header.logo_img }}
         <p class="site-logo">
           <a href="{{ .Site.Data.header.url | default "/" | relURL }}">
-            <img src="{{ .Site.Data.header.logo_img | relURL }}" alt="Logo" />
+            <img src="{{ .Site.Data.header.logo_img | relURL }}" alt="Logo" style="height:58px;width:auto" />
           </a>
         </p><!-- .site-logo -->
         {{ end }}

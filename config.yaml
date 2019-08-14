@@ -1,6 +1,7 @@
 title: 'Agricoltura, vivaismo ed informatica'
 baseURL: /
 defaultContentLanguage: "it"
+defaultContentLanguageInSubdir: false
 languages:
  it:
   lang: "it"
@@ -35,10 +36,10 @@ menu:
       name: Sample Layouts
       url: '#'
       weight: 5
-    - identifier: github
-      name: GitHub
-      url: 'https://github.com/'
-      weight: 6
+    - identifier: help
+      name: Help 🔗
+      url: 'https://www.iperiusremote.it/'
+      target: _blank
 disableKinds:
   - RSS
   - robotsTXT

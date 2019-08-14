@@ -1,5 +1,5 @@
 ---
-title: Prodotti
+title: Showcase
 subtitle: This is an optional page subtitle
 img_path: images/5.jpg
 items:
@@ -21,7 +21,7 @@ items:
     url: 'https://themes.stackbit.com/demos/ampersand/'
 menu:
   main:
-    name: Prodotti
+    name: Showcase
     weight: 2
     parent: layouts
 layout: showcase

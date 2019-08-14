@@ -8,10 +8,17 @@
         <a href="{{ $link.url }}" {{ if $link.new_window }}target="_blank" rel="noopener"
           {{ end }}>{{ $link.text }}</a>.
         {{ end }}
-      </p><!-- .site-info -->
+        {{ if .IsTranslated }}
+        {{ range .Translations }}
+            <a href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" style="margin-left:.5em">
+               <img src="/images/{{ .Language.Lang }}.svg" alt="{{ upper .Language.Lang }}" style="height:16px" />
+            </a>
+        {{ end}}
+      {{ end }}         
+      </p><!-- .site-info -->     
       {{ if .Site.Data.footer.has_social }}
         {{ partial "social.html" . }}
-      {{ end }}
+      {{ end }}      
     </div><!-- .site-footer-inside -->
   </div><!-- .inner -->
 </footer><!-- .site-footer -->
