@@ -78,6 +78,9 @@ models:
                 name: green
                 label: Green
               - type: palette
+                name: verderam01
+                label: VerdeRAM 1
+              - type: palette
                 name: navy
                 label: Navy
               - type: palette

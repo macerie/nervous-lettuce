@@ -1,1 +1,22 @@
 html{overflow-y:scroll}
+.psrtop{font-size:.9em;line-height:130%;z-index:1;position:absolute;right:1em;top:1em;padding:1em;background:linear-gradient(rgba(20,20,20, .5),rgba(20,20,20, .5))}
+.psrl img{height:48px;width:auto;margin-left:.5em}
+.ar{text-align:right!important}
+.ac{text-align:center!important}
+.dx{float:right}
+.x0{border:0}
+.brd{border-radius:.6em}
+.xff{padding:.5em;background:#FFF;border:1px #000 solid}
+.sh{box-shadow: 3px 3px 3px 0px rgba(80,80,80,0.9);}
+.tsh{text-shadow:1px 1px 1px #000}
+.flex{display:flex;}
+.h{visibility: hidden!important;display: none!important;height: 0;width: 0}
+
+@media (max-width: 1024px){
+    .hs{visibility: hidden;display: none;height: 0;width: 0}
+    .psrtop{z-index:0;display:block;position:relative;left:1em;top:-3em;width:100%}
+    .psrtop p{text-align:center}
+  }
+  @media (min-width: 1024px){
+    .hl{visibility: hidden;display: none;height: 0;width: 0}
+  }

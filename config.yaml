@@ -12,7 +12,7 @@ languages:
   languageName: "English"
   weight: 2  
 params:
-  palette: green
+  palette: verderam01
   palettes:
     blue:
       sass:
@@ -22,6 +22,10 @@ params:
       sass:
         accent1: '#12db5d'
         accent2: '#11998e'
+    verderam01:
+      sass:
+        accent1: '#006633'
+        accent2: '#4CA22F'
     navy:
       sass:
         accent1: '#004e92'
@@ -44,3 +48,8 @@ disableKinds:
   - RSS
   - robotsTXT
   - "404"
+enableEmoji: true
+imaging:
+  resampleFilter: 'box'
+  quality: 75
+  anchor: 'smart'
