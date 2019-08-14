@@ -10,7 +10,11 @@ languages:
  en:
   lang: "en"
   languageName: "English"
-  weight: 2  
+  weight: 2 
+ fr:
+  lang: "fr"
+  languageName: "Français"
+  weight: 3
 params:
   palette: verderam01
   palettes:
