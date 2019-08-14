@@ -1,6 +1,6 @@
-content: '&copy;  contents VerdeRAM di Valerio Sanguineti, P.I.: 01119310991 - &copy; structure: Stackbit-Libris. All rights reserved.'
+content: Content and graphics &copy; VerdeRAM di Valerio Sanguineti | layout &copy; Stackbit-Libris.
 links: 
  - text: Stackbit
    url: 'https://www.stackbit.com'
    new_window: true
-has_social: false
+has_social: true

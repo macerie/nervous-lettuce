@@ -3,6 +3,7 @@ html{overflow-y:scroll}
 .psrl img{height:48px;width:auto;margin-left:.5em}
 .ar{text-align:right!important}
 .ac{text-align:center!important}
+.nodeco{border-bottom:0;text-decoration: none}
 .dx{float:right}
 .x0{border:0}
 .brd{border-radius:.6em}
@@ -11,12 +12,17 @@ html{overflow-y:scroll}
 .tsh{text-shadow:1px 1px 1px #000}
 .flex{display:flex;}
 .h{visibility: hidden!important;display: none!important;height: 0;width: 0}
-
+.bottom-page{padding:2em 0 2em 0}
+.bottom-page p, .bottom-page h6{font-size:.8em;line-height:1.4em;margin:0}
+.bottom-page a,.bottom-page a:visited,.bottom-page a:hover{border-bottom:0;}
 @media (max-width: 1024px){
     .hs{visibility: hidden;display: none;height: 0;width: 0}
     .psrtop{z-index:0;display:block;position:relative;left:1em;top:-3em;width:100%}
     .psrtop p{text-align:center}
+    .flex{display:block}
+    .col-4{width:100%}
   }
   @media (min-width: 1024px){
     .hl{visibility: hidden;display: none;height: 0;width: 0}
+    .col-4{width:33%;min-width:33%;text-align:center!important}
   }

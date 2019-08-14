@@ -18,9 +18,9 @@ sections:
           - label: Le colture
             url: docs/index.html
         content: >-
-          Coltiviamo l'**ulivo** per produrre **olive da olio**; gli **orti**
-          per ricavarne piccoli frutti, **pomodori**, **bietole**, **patate** primaticce,
-          **melanzane**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
+          Coltiviamo gli **ulivi** per produrre **olive da olio**; gli **orti**
+          per ricavarne **piccoli frutti**, **pomodori**, **bietole**, **patate** primaticce,
+          **melanzane**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_**; gli **agrumi**
           come **limoni**, **pompelmi** e **kumquat** nelle colline più esposte al
           sole ed al riparo dal vento.
         title: '🍓 Agricoltura ' 
@@ -39,7 +39,7 @@ sections:
         content: >-
           Teniamo moltissimo ad **informatizzare** ed
           **automatizzare** i processi di **produzione** e di **gestione** delle
-          **colture**. Forniamo ad altre aziende (agricole e non) **consulenza informatica** per la
+          **colture**.<br /> Forniamo ad altre aziende (agricole e non) **consulenza informatica** per la
           progettazione e l'amministrazione semplificata di **reti** e di **sistemi**.
         title: '🌍 Informatica'
     section_id: Attività
@@ -66,7 +66,7 @@ sections:
     component: cta_block.html
     section_id: cta
     subtitle: >-
-      Chiamaci o scrivici subito per prenotare subito il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
+      Chiamaci o scrivici subito per prenotare ora il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
     title: E' tempo di far scorta di legna per l'inverno!
     type: ctablock
 menu:
