@@ -28,8 +28,8 @@ sections:
           - label: Le piante
             url: blog/index.html
         content: >-
-          Mettiamo a dimora in campo aperto **palme** ed altre piante
-          **ornamentali** e da **giardino**. Curiamo le foglie delle nostre
+          Mettiamo a dimora e coltivamo in campo aperto e in vao **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
+          **ornamentali** e da **giardino**.<br /> Curiamo le foglie delle nostre
           piante per poter fornire **fronda recisa** all'ingrosso ed al
           dettaglio.
         title: '🌻 Vivaismo '
@@ -61,12 +61,13 @@ sections:
     title: Agricoltura e florovivaismo
     type: contentblock
   - actions:
-      - label: Appezzamenti
-        url: /docs/getting-started/installation.html
+      - label: Chiama ora!
+        url: tel:+393282012672
     component: cta_block.html
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
-    title: The Title of The Call to Action Block
+    subtitle: >-
+      Chiamaci o scrivici subito per prenotare subito il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
+    title: E' tempo di far scorta di legna per l'inverno!
     type: ctablock
 menu:
   main:

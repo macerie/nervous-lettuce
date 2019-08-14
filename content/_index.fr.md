@@ -28,8 +28,8 @@ sections:
           - label: Le piante
             url: blog/index.html
         content: >-
-          Mettiamo a dimora in campo aperto **palme** ed altre piante
-          **ornamentali** e da **giardino**. Curiamo le foglie delle nostre
+          Mettiamo a dimora in campo aperto **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
+          **ornamentali** e da **giardino**.<br /> Curiamo le foglie delle nostre
           piante per poter fornire **fronda recisa** all'ingrosso ed al
           dettaglio.
         title: '🌻 Vivaismo '
