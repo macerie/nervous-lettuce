@@ -20,7 +20,7 @@ sections:
         content: >-
           Coltiviamo gli **ulivi** per produrre **olive da olio**; gli **orti**
           per ricavarne **piccoli frutti**, **pomodori**, **bietole**, **patate** primaticce,
-          **melanzane**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_**; gli **agrumi**
+          **melanzane**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_** e gli **agrumi**
           come **limoni**, **pompelmi** e **kumquat** nelle colline più esposte al
           sole ed al riparo dal vento.
         title: '🍓 Agricoltura ' 
@@ -28,7 +28,7 @@ sections:
           - label: Le piante
             url: blog/index.html
         content: >-
-          Mettiamo a dimora e coltivamo in campo aperto e in vao **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
+          Mettiamo a dimora e coltivamo in campo aperto e in vaso **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
           **ornamentali** e da **giardino**.<br /> Curiamo le foglie delle nostre
           piante per poter fornire **fronda recisa** all'ingrosso ed al
           dettaglio.
@@ -61,7 +61,7 @@ sections:
     title: Agricoltura e florovivaismo
     type: contentblock
   - actions:
-      - label: Chiama ora!
+      - label: Prenota qui!
         url: tel:+393282012672
     component: cta_block.html
     section_id: cta

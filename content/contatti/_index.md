@@ -1,0 +1,51 @@
+---
+title: Contatti
+subtitle: Dove siamo, i nostri orari e come raggiungerci. 
+img_path: images/5.jpg
+menu:
+  main:
+    name: Contatti
+    weight: 4
+layout: page
+---
+
+### :phone: Recapiti
+
+
+
+
+### :earth_africa: Dove siamo
+
+La sede legale di VerdeRAM è a <a href="http://www.comune.lavagna.ge.it" target="_blank" title="Sito istituzionale del Comune di Lavagna">**Lavagna**</a>, ma quasi tutte le attività si svolgono in campo o nei fabbricati ad uso strumentale presenti in azienda a <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">**Leivi**</a>
+o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istituzionale del Comune di Chiavari">**Chiavari**</a>.
+
+<div class="note">
+  <h5 class="ar">
+  :heavy_exclamation_mark: 
+    <small class="b i">Disclaimer: accoglienza tipica ligure :)</small>
+  </h5> 
+  <b>Attenzione</b>: l'azienda ha più appezzamenti e putroppo non possiamo essere sempre dappertutto. Nei campi, inoltre, il campanello non c'è ancora ;). <br />La cosa migliore da fare, perciò, è <b>telefonare</b> con un preavviso anche di pochi minuti al numero <a class="b" href="tel:+393282012672">328.20.12.672</a>, così ci troveremo di sicuro.<br />
+  <b>Grazie.</b>
+</div>
+
+### :tractor: Come raggiungerci
+
+### :clock9: Orari
+
+L'intenzione è quella di allinearci al sole ed ai ritmi di un tempo, per cui quando c'è luce tendenzialmente dovremmo essere in campo: molto più a lungo d'estate ed assai meno in inverno, quindi. 
+
+### :pencil: Dati fiscali completi  
+Se sei un cliente o un fornitore può esserti comodo avere a portata di mano tutti i dati fiscali dell'azienda. 
+
+```
+​VerdeRAM di Valerio Sanguineti
+C.so Genova, 83 int. 29
+16033 LAVAGNA (GE)
+
+Partita I.V.A...: 01119310991 
+Codice Fiscale..: SNGVLR77S09C621C 
+R.E.A...........: GE - 486153
+Cod. dest. SDI..: N92GLON
+```
+
+<!-- https://laurakalbag.com/processing-responsive-images-with-hugo/ -->

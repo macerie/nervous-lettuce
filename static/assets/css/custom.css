@@ -12,6 +12,8 @@ html{overflow-y:scroll}
 .tsh{text-shadow:1px 1px 1px #000}
 .flex{display:flex;}
 .h{visibility: hidden!important;display: none!important;height: 0;width: 0}
+.b{font-weight: bold}
+.i{font-style:italic}
 .bottom-page{padding:2em 0 2em 0}
 .bottom-page p, .bottom-page h6{font-size:.8em;line-height:1.4em;margin:0}
 .bottom-page a,.bottom-page a:visited,.bottom-page a:hover{border-bottom:0;}
