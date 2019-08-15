@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
     <head>    
-        
         <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -18,7 +17,7 @@
         {{ end }}
     </head>
     <body>
-        
+        {{ block "body" .}}
         <div id="page" class="site">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
@@ -26,13 +25,14 @@
           </main><!-- .site-content -->
           {{ partial "footer.html" . }}
         </div><!-- .site -->
-        <!-- Scripts -->
+        <!-- Scripts 
         <script data-no-instant src="{{ "assets/js/instantclick.min.js" | relURL }}" data-manual></script>        
         <script data-no-instant src="{{ "assets/js/plugins.js" | relURL }}"></script>
         <script data-no-instant src="{{ "assets/js/prism.js" | relURL }}" data-manual></script>
-        <script data-no-instant src="{{ "assets/js/main.js" | relURL }}"></script>
+        <script data-no-instant src="{{ "assets/js/main.js" | relURL }}"></script>-->
         <script data-no-instant>
             //InstantClick.init();
         </script>
+        {{ end }}
     </body> 
 </html>

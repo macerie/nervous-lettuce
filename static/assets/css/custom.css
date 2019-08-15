@@ -17,6 +17,9 @@ html{overflow-y:scroll}
 .bottom-page{padding:2em 0 2em 0}
 .bottom-page p, .bottom-page h6{font-size:.8em;line-height:1.4em;margin:0}
 .bottom-page a,.bottom-page a:visited,.bottom-page a:hover{border-bottom:0;}
+.toc{width:100%;padding:2em;}
+.toc a{width:100%}
+
 @media (max-width: 1024px){
     .hs{visibility: hidden;display: none;height: 0;width: 0}
     .psrtop{z-index:0;display:block;position:relative;left:1em;top:-3em;width:100%}

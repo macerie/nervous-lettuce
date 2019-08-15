@@ -18,17 +18,15 @@
       {{ if and .Site.Menus.main .Site.Data.header.has_nav }}
       <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
         <div class="site-nav-inside">
-          <button id="menu-close" class="menu-toggle" data-no-instant>
-            <span class="screen-reader-text">Open Menu</span>
-            <span class="icon-close" aria-hidden="true"></span>
-          </button>
           {{ $menu := .Site.Menus.main }}
           {{ $include_dict := dict "menu" $menu "menu_class" "menu" "page" . }}
           {{ partial "menu.html" $include_dict }}
         </div><!-- .site-nav-inside -->
       </nav><!-- .site-navigation -->
-      <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
       {{ end }}
+      <a id="menu-open" class="menu-toggle" href="/toc">
+          <span class="screen-reader-text">Close Menu</span><span class="icon-menu" aria-hidden="true"></span>
+      </a>
     </div><!-- .site-header-inside -->
   </div><!-- .inner -->
 </header><!-- .site-header -->
