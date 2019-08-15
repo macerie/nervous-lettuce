@@ -21,8 +21,9 @@ html{overflow-y:scroll}
     .hs{visibility: hidden;display: none;height: 0;width: 0}
     .psrtop{z-index:0;display:block;position:relative;left:1em;top:-3em;width:100%}
     .psrtop p{text-align:center}
-    .flex{display:block}
-    .col-4{width:100%}
+    .flex{display:block;}
+    .col-4{width:100%!important;}
+    .bottom-page article {text-align:center!important;padding-top:1em}
   }
   @media (min-width: 1024px){
     .hl{visibility: hidden;display: none;height: 0;width: 0}
