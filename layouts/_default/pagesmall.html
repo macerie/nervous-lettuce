@@ -5,7 +5,7 @@
       {{ if .Params.img_path }}
       <div class="bg-img" style="background-image: url('{{ .Params.img_path | relURL }}')"></div>
       {{ end }}
-      <div class="inner">
+      <div class="inner-small">
         <h1 class="post-title">{{ .Params.title }}</h1>
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
@@ -15,7 +15,7 @@
       </div><!-- .inner-small -->
     </header><!-- .post-header -->
     <div class="outer">
-      <div class="inner">
+      <div class="inner-medium">
         <div class="post-content">
           {{ .Content }}
         </div><!-- .post-content -->

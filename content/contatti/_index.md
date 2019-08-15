@@ -6,23 +6,23 @@ menu:
   main:
     name: Contatti
     weight: 4
-layout: page
+layout: pagesmall
 ---
 
 ### :phone: Recapiti
 
-- Cellulare **Valerio**: **328.20.12.672**, disponibile anche su **telegram** e **whatsapp**
+- Cellulare: **328.20.12.672**, disponibile anche su <a href="https://t.me/macerie5" target="_blank" title="Telegram">Telegram</a> o <a href="https://wa.me/393282012672" target="_blank" title="Whatsapp">Whatsapp</a>
 - Sede: **0185.300.888** (numero VOIP: la chiamata è deviata a cellulare, per cui rispondiamo subito o riceviamo un messaggio vocale)
 - E-mail: <a href="mailto:info+web@verderam.com">info@verderam.com</a>
 
 
 ### :earth_africa: Dove siamo
 <ul>
-  <li><a href="https://goo.gl/maps/TpXAxfntzStcx3Zn8" data-no-instant target="_blank">Via Primo Maggio, 16 - 16040 Leivi (GE)</a></li>
-  <li><a href="https://goo.gl/maps/yxUfHdUPh8qrvbZCA" data-no-instant target="_blank">Via S. Terenziano, 18 - 16040 Leivi (GE)</a></li>
+  <li><a href="https://goo.gl/maps/TpXAxfntzStcx3Zn8" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">Via Primo Maggio, 16 - 16040 Leivi (GE)</a></li>
+  <li><a href="https://goo.gl/maps/yxUfHdUPh8qrvbZCA" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">Via S. Terenziano, 18 - 16040 Leivi (GE)</a></li>
 </ul>
 <p>
-  <a href="#">Qui</a> c'è una mappa completa di tutti gli appezzamenti. Il file KLM può essere visualizzato ad esempio con QGIS o Google Earth(R).
+  <a href="#">Qui</a> c'è una mappa completa di tutti gli appezzamenti. Il file, in formato <a href="https://developers.google.com/kml/?gl=IT&hl=it" target="_blank">KML</a>, può essere visualizzato ad esempio con <a href="https://www.qgis.org" target="_blank">QGIS</a> o <a href="https://earth.google.com" target="_blank">Google Earth(R)</a>.
 </p>
 La sede legale di VerdeRAM è a <a href="http://www.comune.lavagna.ge.it" target="_blank" title="Sito istituzionale del Comune di Lavagna">**Lavagna**</a>, ma quasi tutte le attività si svolgono in campo o nei fabbricati ad uso strumentale presenti in azienda a <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">**Leivi**</a>
 o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istituzionale del Comune di Chiavari">**Chiavari**</a>.
@@ -30,7 +30,7 @@ o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istit
 <div class="note">
   <h5>
   :heavy_exclamation_mark: 
-    <small class="b i">Disclaimer: sa di <a href="https://www.youtube.com/watch?v=cB3lSCKuXKs" target="_blank">accoglienza tipica ligure</a>, ma un po' è causa di forza maggiore, eh :)</small>
+    <small class="b i">Disclaimer: sa di <a href="https://youtu.be/ytHHRj545FE" target="_blank">accoglienza tipica ligure</a>, ma un po' è causa di forza maggiore, eh :)</small>
   </h5> 
   <b>Attenzione</b>: l'azienda ha più appezzamenti e putroppo non possiamo essere sempre dappertutto. Nei campi, inoltre, il campanello non c'è ancora ;). <br />La cosa migliore da fare, perciò, è <b>telefonare</b> con un preavviso anche di pochi minuti al numero <a class="b" href="tel:+393282012672">328.20.12.672</a>, così ci troveremo di sicuro.<br />
   <b>Grazie.</b>
@@ -38,7 +38,11 @@ o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istit
 
 ### :tractor: Come raggiungerci
 
-Per quanto sparsa sul territorio, VerdeRAM affaccia quasi ovunque sulla strada principale e davanti ai fabbricati di Via I Maggio e di Via San Terenziano a Leivi c'è una fermata dell'autobus. Gli orari possono essere consultati sul sito dell'ATP. 
+###### Con i mezzi pubblici
+Per quanto sparsa sul territorio, VerdeRAM affaccia quasi ovunque sulla strada principale e davanti ai fabbricati di Via I Maggio e di Via San Terenziano a Leivi c'è una <b>fermata dell'autobus</b>. Gli <b>orari</b> possono essere consultati sul sito di <a href="https://www.atpesercizio.it/cartina.php" target="_blank">ATP Esercizio</a>.
+<p>La <a href="https://www.trenitalia.com/" target="_blank" title="Trenitalia - Orari">stazione ferroviaria</a> più vicina è quella di **Chiavari**;
+<a href="https://www.portsofgenova.com" target="_blank" title="Autorità di sistema Portuale del Mar Ligure Occidentale">porto</a> ed 
+<a href="https://www.airport.genova.it" target="_blank" title="Aeroporto di Genova">aeroporto</a> sono a **Genova**.
 
 ### :clock9: Orari
 
