@@ -1,7 +1,7 @@
 ---
 title: Contatti
-subtitle: Dove siamo, i nostri orari e come raggiungerci. 
-img_path: images/5.jpg
+subtitle: Come contattarci, dove trovarci e come raggiungerci. 
+img_path: contatti/openmap.jpg
 menu:
   main:
     name: Contatti
@@ -22,7 +22,7 @@ layout: pagesmall
   <li><a href="https://goo.gl/maps/yxUfHdUPh8qrvbZCA" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">Via S. Terenziano, 18 - 16040 Leivi (GE)</a></li>
 </ul>
 <p>
-  <a href="#">Qui</a> c'è una mappa completa di tutti gli appezzamenti. Il file, in formato <a href="https://developers.google.com/kml/?gl=IT&hl=it" target="_blank">KML</a>, può essere visualizzato ad esempio con <a href="https://www.qgis.org" target="_blank">QGIS</a> o <a href="https://earth.google.com" target="_blank">Google Earth(R)</a>.
+  A [questo link](#) è possibile scaricare una mappa completa di tutti gli appezzamenti. Il file, in formato <a href="https://developers.google.com/kml/?gl=IT&hl=it" target="_blank">KML</a>, può essere visualizzato ad esempio con <a href="https://www.qgis.org" target="_blank">QGIS</a> o <a href="https://earth.google.com" target="_blank">Google Earth(R)</a>.
 </p>
 La sede legale di VerdeRAM è a <a href="http://www.comune.lavagna.ge.it" target="_blank" title="Sito istituzionale del Comune di Lavagna">**Lavagna**</a>, ma quasi tutte le attività si svolgono in campo o nei fabbricati ad uso strumentale presenti in azienda a <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">**Leivi**</a>
 o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istituzionale del Comune di Chiavari">**Chiavari**</a>.
@@ -40,14 +40,37 @@ o a <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istit
 
 ###### Con i mezzi pubblici
 Per quanto sparsa sul territorio, VerdeRAM affaccia quasi ovunque sulla strada principale e davanti ai fabbricati di Via I Maggio e di Via San Terenziano a Leivi c'è una <b>fermata dell'autobus</b>. Gli <b>orari</b> possono essere consultati sul sito di <a href="https://www.atpesercizio.it/cartina.php" target="_blank">ATP Esercizio</a>.
-<p>La <a href="https://www.trenitalia.com/" target="_blank" title="Trenitalia - Orari">stazione ferroviaria</a> più vicina è quella di **Chiavari**;
+<ul>
+  <li>
+    Orari per **Via San Terenziano**: <a href="https://www.atpesercizio.it/Orari201908091602/orari_TC/3_13_31_A_R_fer.pdf" target="_blank" title="Orario autobus feriale">feriale</a> 
+    e <a href="https://www.atpesercizio.it/Orari201908091602/orari_TC/3_13_31_A_R_fes.pdf" target="_blank" title="Orario autobus festivo">festivo</a>.
+  </li>
+</ul>
+La <a href="https://www.trenitalia.com/" target="_blank" title="Trenitalia - Orari">stazione ferroviaria</a> più vicina è quella di **Chiavari**;
 <a href="https://www.portsofgenova.com" target="_blank" title="Autorità di sistema Portuale del Mar Ligure Occidentale">porto</a> ed 
 <a href="https://www.airport.genova.it" target="_blank" title="Aeroporto di Genova">aeroporto</a> sono a **Genova**.
 
+###### Con auto e mezzi pesanti
+
+Si raccomanda l'uscita di **Chiavari** dell'autostrada A12, quindi di proseguire in direzione **Sampierdicanne** ed infine - a seconda dei casi - salire verso la Scuola elementare di <a href="https://goo.gl/maps/TpXAxfntzStcx3Zn8" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">Leivi</a> o gli insediamenti produttivi di <a href="https://goo.gl/maps/yxUfHdUPh8qrvbZCA" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">San Terenziano</a>. <br />
+<figure class="ac">
+<a href="https://osm.org/go/xX2DuMqU--?m=" target="_blank" title="clicca sull'immagine per visualizzare la cartina stradale">
+  <img src="openmap.jpg" alt="" />
+  </a>
+</figure>
+<p class="ac">
+<small>
+  <a href="https://en.wikipedia.org/wiki/Geo_URI_scheme" target="_blank">GEO</a> URL: <a href="geo:44.3533,9.3094?z=15" target="_blank">geo:44.3533,9.3094?z=15</a> e <a href="geo:44.34254,9.31790?z=17" target="_blank">geo:44.34254,9.31790?z=17</a>
+  </small>
+</p>
+
+
+
+<!-- 
 ### :clock9: Orari
 
 L'intenzione è quella di allinearci al sole ed ai ritmi di un tempo, per cui quando c'è luce tendenzialmente dovremmo essere in campo: molto più a lungo d'estate ed assai meno in inverno, quindi. 
-
+-->
 ### :pencil: Dati fiscali completi  
 Se sei un cliente o un fornitore può esserti comodo avere a portata di mano tutti i dati fiscali dell'azienda. 
 
@@ -62,4 +85,9 @@ R.E.A...........: GE - 486153
 Cod. dest. SDI..: N92GLON
 ```
 
+<p class="ar">
+  <small>
+  [Inizio pagina](#)
+  </small>
+</p>
 <!-- https://laurakalbag.com/processing-responsive-images-with-hugo/ -->

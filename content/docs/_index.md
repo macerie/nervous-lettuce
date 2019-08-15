@@ -5,6 +5,7 @@ menu:
     name: Docs
     weight: 2
 layout: docs
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
