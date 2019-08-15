@@ -53,8 +53,9 @@
           {{ end }}>{{ $link.text }}</a>.
         {{ end }}
         {{ if .IsTranslated }}
+        &nbsp;
         {{ range .Translations }}
-            <a href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" style="margin-left:.5em">
+            <a class="nodeco" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" style="margin-left:.5em">
                <img src="/images/{{ .Language.Lang }}.svg" alt="{{ upper .Language.Lang }}" style="height:16px" />
             </a>
         {{ end}}

@@ -41,7 +41,7 @@ sections:
           **automatizzare** i processi di **produzione** e di **gestione** delle
           **colture**.<br /> Forniamo ad altre aziende (agricole e non) **consulenza informatica** per la
           progettazione e l'amministrazione semplificata di **reti** e di **sistemi**.
-        title: '🌍 Informatica'
+        title: '📀 Informatica'
     section_id: Attività
     type: featuresblock
   - actions:
