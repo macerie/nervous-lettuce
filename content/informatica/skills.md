@@ -26,17 +26,27 @@ items:
     url: '#'
   - title: Network Storage
     subtitle: >-
-      Installiamo e gestiamo 
-      <a href="https://it.wikipedia.org/wiki/Storage_Area_Network" target="_blank">SAN</a> e  
-      <a href="https://it.wikipedia.org/wiki/Network_Attached_Storage" target="_blank">NAS</a> per ambienti <i>small business</i> o <i>enterprise</i>, 
+      Installiamo e gestiamo, in ambienti <i>small business</i> o <i>enterprise</i>, 
+      <a href="https://it.wikipedia.org/wiki/Storage_Area_Network" target="_blank">SAN</a>
+      <a href="https://www.netapp.com/us/products/storage-systems/storage-area-network.aspx" target="_blank">NetApp&reg;</a>, 
+      <a href="https://www.dell.com/it-it/work/shop/storage-e-backup-dei-dati-di-dell-emc/sc/storage-products" target="_blank">Dell&reg; EMC</a>,
+      <a href="https://www.hpe.com/it/it/storage.html" target="_blank">HP&reg; StorageWorks</a> e
+      <a href="https://it.wikipedia.org/wiki/Network_Attached_Storage" target="_blank">NAS</a>
+      <a href="https://www.qnap.com/it-it/" target="_blank">QNAP</a>&reg; e
+      <a href="https://www.synology.com/it-it" target="_blank">Synology</a>&reg;.
     url: '#'
   - title: IT Security
     subtitle: >-
-      Installiamo e gestiamo Soluzioni <a href="https://en.wikipedia.org/wiki/Unified_threat_management" target="_blank">UMT</a> virtuali e fisiche <a href="https://www.watchguard.com/wgrd-products" target="_blank">WatchGuard</a>&reg;, <a href="https://www.fortinet.com/products.html" target="_blank">Fortinet</a>&reg;, <a href="https://www.pfsense.org" target="_blank">PFSense</a>&reg;, <a href="https://www.pfsense.org" target="_blank">PFSense</a>&reg;
+      Installiamo e gestiamo Soluzioni 
+      <a href="https://en.wikipedia.org/wiki/Unified_threat_management" target="_blank">UMT</a> virtuali e fisiche 
+      <a href="https://www.watchguard.com/wgrd-products" target="_blank">WatchGuard</a>&reg;, 
+      <a href="https://www.fortinet.com/products.html" target="_blank">Fortinet</a>&reg;, <a href="https://www.pfsense.org" target="_blank">PFSense</a>&reg;, 
+      <a href="https://www.cisco.com/c/it_it/products/security/firewalls/index.html" target="_blank">Cisco</a>&reg; ed infrastrutture <i>Wi-fi</i> <a href="https://www.ui.com/" target="_blank">Ubiquiti</a>&reg; e
+      <a href="https://mikrotik.com/" target="_blank">Mirkotik</a>.
     url: '#'         
   - title: Collaboration Suite 
     subtitle: >-
-      Configuriamo e gestiamo soluzioni collaborative <i>Cloud</i> come <a href="https://gsuite.google.it/intl/it/" target="_blank">GSuite</a>&reg; o 
+      Configuriamo e gestiamo soluzioni collaborative <i>cloud</i> come <a href="https://gsuite.google.it/intl/it/" target="_blank">GSuite</a>&reg; o <i>on site</i> come <a href="https://www.zimbra.com" target="_blank">Zimbra</a>&reg; o <a href="https://products.office.com/it-it/exchange/microsoft-exchange-server" target="_blank">Microsoft Exchange Server</a>&reg;.
     url: '#'         
 sections:   
 menu:
@@ -46,4 +56,9 @@ menu:
     parent: informatica
 layout: showcase
 ---
+
+<!-- Monitoring, Managment, Containers, Sviluppo, embedded, terminal (smart work & edu) 
+
+Soluzioni ad hoc per: no profit, edu, agri, enterprise 
+-->
 
