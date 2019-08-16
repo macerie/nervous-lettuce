@@ -1,12 +1,11 @@
 ---
-title: About
+title: Virtualizzazione
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  Progettiamo, realizziamo e manteniamo infrastrutture virtualizzate HA di classe enterprise basate su tecnologia VMWare(R) ESXi,  Microsoft(R) Hyper-V, Proxmox VE
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+  Progettiamo, realizziamo e manteniamo infrastrutture virtualizzate HA di classe enterprise basate su tecnologia [**VMWare(R) ESXi**](https://www.vmware.com/it/products/vsphere.html),  [**Microsoft(R) Hyper-V**](https://www.microsoft.com/it-it/cloud-platform/windows-server), [**Proxmox VE**](https://www.proxmox.com/en/)
 
 ***
 

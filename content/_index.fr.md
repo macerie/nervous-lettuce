@@ -16,7 +16,7 @@ sections:
     featureslist:
       - actions:
           - label: Le colture
-            url: docs/index.html
+            url: colture/ortaggi/
         content: >-
           Coltiviamo l'**ulivo** per produrre **olive da olio**; gli **orti**
           per ricavarne piccoli frutti, **pomodori**, **bietole**, **patate** primaticce,

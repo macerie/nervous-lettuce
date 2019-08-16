@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Informatica 
 menu:
   main:
     name: Docs

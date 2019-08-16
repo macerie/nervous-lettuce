@@ -40,11 +40,16 @@ params:
         accent2: '#4a00e0'
 menu:
   main:
+    - identifier: informatica
+      name: Informatica
+      url: '#'
+      weight: 6
     - identifier: colture
       name: Colture
       url: '#'
       weight: 5
     - identifier: help
+      weight: 999
       name: Help 🔗
       url: 'https://www.iperiusremote.it/'
       target: _blank

@@ -16,7 +16,7 @@ sections:
     featureslist:
       - actions:
           - label: Le colture
-            url: docs/index.html
+            url: colture/ortaggi/
         content: >-
           Coltiviamo gli **ulivi** per produrre **olive da olio**; gli **orti**
           per ricavarne **piccoli frutti**, **pomodori**, **bietole**, **patate**,
@@ -26,7 +26,7 @@ sections:
         title: '🍓 Agricoltura ' 
       - actions:
           - label: Le piante
-            url: blog/index.html
+            url: colture/ortaggi/
         content: >-
           Mettiamo a dimora e coltivamo in campo aperto e in vaso **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
           **ornamentali** e da **giardino**.<br /> Curiamo le **foglie** delle nostre

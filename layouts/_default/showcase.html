@@ -5,7 +5,7 @@
     <div class="bg-img" style="background-image: url('{{ .Params.img_path | relURL }}')"></div>
     {{ end }}
     <div class="inner-small">
-      <h1 class="page-title">{{ .Params.title }}</h1>
+      <h1 class="page-title line-left" >{{ .Params.title }}</h1>
       {{ if .Params.subtitle }}
       <p class="page-subtitle">{{ .Params.subtitle }}</p>
       {{ end }}
@@ -26,12 +26,17 @@
             <h2 class="block-item-title"><a href="{{ $item.url }}">{{ $item.title }}</a></h2>
             {{ if $item.subtitle }}
             <p class="block-item-text">{{ $item.subtitle | safeHTML }}</p>
-            {{ end }}
+            {{ end }}            
           </div><!-- .block-item-inside -->
         </section><!-- .block-item -->
         {{ end }}
       </div><!-- .block-items -->
     </div><!-- .inner-->
   </div><!-- .showcase-block -->
-
+  <div class="sect">
+    {{ range $section := .Params.sections }}
+      {{ $include_dict := dict "section" $section "Site" $.Site }}
+      {{ partial $section.component $include_dict }}
+    {{ end }}
+  </div>
 {{ end }}

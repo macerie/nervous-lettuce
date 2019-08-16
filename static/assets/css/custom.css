@@ -19,6 +19,7 @@ html{overflow-y:scroll}
 .bottom-page a,.bottom-page a:visited,.bottom-page a:hover{border-bottom:0;}
 .toc{width:100%;padding:2em;}
 .toc a{width:100%}
+.fw{width:100%}
 
 @media (max-width: 1024px){
     .hs{visibility: hidden;display: none;height: 0;width: 0}
