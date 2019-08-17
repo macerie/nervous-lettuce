@@ -16,7 +16,7 @@
       </div><!-- .block-content -->
       {{ if .section.image }}
       <div class="block-preview">
-        <img class="thumbnail" src="{{ .section.image | relURL }}" alt="{{ .section.title }}" style="float:right" />
+        <img loading="lazy" class="thumbnail" src="{{ .section.image | relURL }}" alt="{{ .section.title }}" style="float:right" />
       </div>      
       {{ end }}
     </div><!-- .block-inside -->

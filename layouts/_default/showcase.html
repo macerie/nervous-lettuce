@@ -20,13 +20,13 @@
           <div class="block-item-inside">
             {{ if $item.preview_img }}
             <a class="block-item-preview" href="{{ $item.url }}">
-              <img class="thumbnail" src="{{ $item.preview_img | relURL }}" alt="{{ $item.title }}" />
+              <img loading="lazy" class="thumbnail" src="{{ $item.preview_img | relURL }}" alt="{{ $item.title }}" />
             </a>
             {{ end }}
             <h2 class="block-item-title">
               <a href="{{ $item.url }}">{{ $item.title }}
                   {{ if $item.ico }}
-                  <img valign="middle" style="float:right" height="32" width="32" src="/images/ico/{{ $item.ico }}.png" />
+                  <img loading="lazy" valign="middle" style="float:right" height="32" width="32" src="/images/ico/{{ $item.ico }}.png" />
                   {{ end }}
               </a>
             </h2>

@@ -20,7 +20,7 @@
         <article class="post">
           {{ if $post.Params.thumb_img_path }}
           <a class="post-thumbnail" href="{{ $post.RelPermalink }}">
-            <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
+            <img loading="lazy" class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
           </a>
           {{ end }}
           <header class="post-header">

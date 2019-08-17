@@ -3,7 +3,7 @@
       <article class="column col-md-12 col-4">
           <p>
               <a href="/" rel="home" style="text-decoration:none!important">
-                  <img src="/images/vrlogo.svg" alt="VerdeRAM" style="height:48px;width:auto">
+                  <img loading="lazy" src="/images/vrlogo.svg" alt="VerdeRAM" style="height:48px;width:auto">
               </a>
           </p>
           <p style="margin-top:1.2em">
@@ -33,9 +33,9 @@
       </article>
       <article class="column col-md-12 col-4 ar">
           <h3 class="psrl">
-              <img src="/images/ue.svg" title="Unione Europea" />
-              <img src="/images/ri.svg" title="Repubblica Italiana" />
-              <img src="/images/rl.svg" title="Regione Liguria" />
+              <img loading="lazy" src="/images/ue.svg" title="Unione Europea" />
+              <img loading="lazy" src="/images/ri.svg" title="Repubblica Italiana" />
+              <img loading="lazy" src="/images/rl.svg" title="Regione Liguria" />
           </h3>
           <h6>Programma di Sviluppo Rurale 2014-2020</h6>
           <p>Fondo Europeo Agricolo per lo Sviluppo Rurale:<br />
@@ -57,7 +57,7 @@
         &nbsp;
         {{ range .Translations }}
             <a class="nodeco" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" style="margin-left:.5em">
-               <img src="/images/{{ .Language.Lang }}.svg" alt="{{ upper .Language.Lang }}" style="height:16px" />
+               <img loading="lazy" src="/images/{{ .Language.Lang }}.svg" alt="{{ upper .Language.Lang }}" style="height:16px" />
             </a>
         {{ end}}
       {{ end }}         
