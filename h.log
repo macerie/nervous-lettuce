@@ -1,0 +1,17 @@
+INFO 2019/08/17 18:04:00 Using config file: 
+INFO 2019/08/17 18:04:00 syncing static files to D:\dev\hugo\nervous-lettuce\
+INFO 2019/08/17 18:04:00 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+INFO 2019/08/17 18:04:00 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+INFO 2019/08/17 18:04:00 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN 2019/08/17 18:04:00 found no layout file for "HTML" for "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:00 found no layout file for "HTML" for "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:00 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:01 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:00 found no layout file for "HTML" for "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:01 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:01 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:01 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/08/17 18:04:01 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+LOG:   2019/08/17 18:04:01 Total in 175 ms
+LOG:   2019/08/17 18:04:01 Watching for config changes in D:\dev\hugo\nervous-lettuce\config.yaml
+INFO 2019/08/17 18:51:07 Received System Events: ["D:\\dev\\hugo\\nervous-lettuce\\static\\images\\Nuova cartella": CREATE "D:\\dev\\hugo\\nervous-lettuce\\static\\images": WRITE]

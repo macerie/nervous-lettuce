@@ -7,8 +7,8 @@ html{overflow-y:scroll}
 .dx{float:right}
 .x0{border:0}
 .brd{border-radius:.6em}
-.xff{padding:.5em;background:#FFF;border:1px #000 solid}
-.sh{box-shadow: 3px 3px 3px 0px rgba(80,80,80,0.9);}
+.xff,img[src*="#xff"]{padding:.5em;background:#FFF;border:1px #000 solid}
+.sh,img[src*="#sh"]{box-shadow: 3px 3px 3px 0px rgba(80,80,80,0.9);}
 .tsh{text-shadow:1px 1px 1px #000}
 .flex{display:flex;}
 .h{visibility: hidden!important;display: none!important;height: 0;width: 0}
