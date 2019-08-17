@@ -19,8 +19,16 @@
         <section class="block-item">
           <div class="block-item-inside">
             {{ if $item.preview_img }}
+            {{ $i := .Site.GetPage "/images" }}
+            {{ $imgRes := $i.Resources.GetMatch ($item.preview_img) }}
             <a class="block-item-preview" href="{{ $item.url }}">
-              <img loading="lazy" class="thumbnail" src="{{ $item.preview_img | relURL }}" alt="{{ $item.title }}" />
+                {{ if $imgRes }}
+                <img loading="lazy" class="thumbnail res" 
+                src="{{ $imgRes.RelPermalink }}" width="{{ $imgRes.Width }}" height="{{ $imgRes.Height }}"
+                />
+                {{ else }}
+                <img loading="lazy" class="thumbnail" src="{{ $item.preview_img | relURL }}" alt="{{ $item.title }}" />
+              {{ end }}
             </a>
             {{ end }}
             <h2 class="block-item-title">
@@ -45,4 +53,5 @@
       {{ partial $section.component $include_dict }}
     {{ end }}
   </div>
+
 {{ end }}
