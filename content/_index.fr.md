@@ -16,7 +16,7 @@ sections:
     featureslist:
       - actions:
           - label: Le colture
-            url: colture/ortaggi/
+            url: agricoltura/
         content: >-
           Coltiviamo l'**ulivo** per produrre **olive da olio**; gli **orti**
           per ricavarne piccoli frutti, **pomodori**, **bietole**, **patate** primaticce,
@@ -26,7 +26,7 @@ sections:
         title: '🍓 Agricoltura ' 
       - actions:
           - label: Le piante
-            url: blog/index.html
+            url: vivaismo/
         content: >-
           Mettiamo a dimora in campo aperto **bambù**, **melograni**, **palme**, **pitosfori** ed altre piante
           **ornamentali** e da **giardino**.<br /> Curiamo le foglie delle nostre
@@ -35,7 +35,7 @@ sections:
         title: '🌻 Vivaismo '
       - actions:
           - label: Le competenze
-            url: /style-guide.html
+            url: /informatica/skills/
         content: >-
           Teniamo moltissimo ad **informatizzare** ed
           **automatizzare** i processi di **produzione** e di **gestione** delle
