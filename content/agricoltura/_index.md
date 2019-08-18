@@ -4,19 +4,23 @@ menu: false
 subtitle: Cosa coltiviamo
 img_path: /images/kumquat-head.jpg
 items:
-  - title: Kumquat
-    subtitle: 'Mini-agrumi: si mangiano senza sbucciarli.'
+  - title: Ulivo
+    preview_img: /images/olive-min.jpg
+    url: '/ulivo/'
+  - title: Ortaggi
+    preview_img: /images/cipolle-min.jpg
+    url: 'ortaggi/'    
+  - title: Agrumi
     preview_img: /images/kumquat-min.jpg
-    url: '#'
-  - title: Limoni
-    subtitle: "'Le trombe d'oro della solarità'."
-    preview_img: /images/limoni-min.jpg
-    url: '#'
-  - title: Pompelmi
-    subtitle: Benefico, acidulo, amaro. 
-    preview_img: /images/pompelmi-min.jpg
-    url: '#'
+    url: 'agrumi/'
+  - title: Rose da Sciroppo
+    preview_img: /images/rose-min.jpg
+    url: 'rosa/'
+  - title: Erbe aromatiche
+    preview_img: /images/rosmarino-min.jpg
+    url: '#'    
+  - title: Noci
+    preview_img: /images/noci-min.jpg
+    url: '#'    
 layout: showcase
 ---
-
-#Prova 

@@ -47,14 +47,19 @@
       </div><!-- .block-items -->
     </div><!-- .inner-->
   </div><!-- .showcase-block -->
-
-  <div class="sect">
-    {{ range $section := .Params.sections }}
-      {{ $include_dict := dict "section" $section "Site" $.Site }}
-      {{ partial $section.component $include_dict }}
-    {{ end }}
-  </div>
+  {{ if .Params.sections }}
+    <div class="sect">
+      {{ range $section := .Params.sections }}
+        {{ $include_dict := dict "section" $section "Site" $.Site }}
+        {{ partial $section.component $include_dict }}
+      {{ end }}
+    </div>
+  {{ end }}
 {{ end }}
 {{ define "c2"}}
-  {{ .Content }}
+  {{ if .Content }}
+    <section class="inner">
+    {{ .Content | safeHTML }}
+    </section>
+  {{ end }}
 {{ end }}
