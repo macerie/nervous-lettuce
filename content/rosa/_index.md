@@ -7,7 +7,7 @@ menu:
   main:
     name: Rose da scrippo
     weight: 6
-    parent: colture
+    parent: agricoltura
 layout: page
 ---
 

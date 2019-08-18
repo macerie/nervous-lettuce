@@ -19,7 +19,7 @@ menu:
   main:
     name: Agrumi
     weight: 4
-    parent: colture
+    parent: agricoltura
 layout: showcase
 ---
 

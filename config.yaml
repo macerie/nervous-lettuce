@@ -43,11 +43,15 @@ menu:
     - identifier: informatica
       name: Informatica
       url: '#'
-      weight: 6
-    - identifier: colture
-      name: Colture
+      weight: 8
+    - identifier: agricoltura
+      name: Agricoltura
       url: '#'
       weight: 5
+    - identifier: vivaismo
+      name: Vivaismo
+      url: '#'
+      weight: 6
     - identifier: help
       weight: 999
       name: Help 🔗
