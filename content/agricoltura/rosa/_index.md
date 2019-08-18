@@ -11,20 +11,19 @@ menu:
 layout: page
 ---
 
-<section class="flex" style="margin-bottom:5em">
-  <div style="padding-right:2em">
-    <h4>Nel nome (più corretto?) della rosa
-    <br /><span style="font-size:small">Rosa gallica, officinalis</span>
+<section style="margin-bottom:5em">
+  <div style="">
+      <figure class="dx" style="padding: 0 0 2em 2em">
+        {{< imgproc rosaGallica Resize "500x" >}}
+      </figure>
+      <h4>Nel nome della rosa<br />
+      <span style="font-size:small">Rosa gallica, officinalis, versicolor</span>
     </h4>
     <p>
       Coltiviamo in <b>vaso</b> ed in <b>pieno campo</b> antiche varietà autoctone di <b>rose</b>, tra cui la <strong><i>rosa gallica officinalis</i></strong>, dalle ancestrali origini.<br />
-  
-      Diffusa un po' ovunque nel vecchio continente come rosa <b>selvatica</b>, ad un certo punto nel corso della storia (estremamente incerto nella datazione) comincia ad essere <b>coltivata</b> nei giardini dei semplici con lo scopo di ottenerne medicinali. E' in questa fase che comincia a diffondersi la <b>"Rosa Gallica Officinalis"
+      Diffusa ovunque nel vecchio continente come rosa <b>selvatica</b>, ad un certo punto nel corso della storia (estremamente incerto nella datazione) comincia ad essere <b>coltivata</b> nei giardini dei semplici con lo scopo di ottenerne medicinali. E' così che lasce  la <b>"Rosa Gallica Officinalis"</b>
     </p>
   </div>
-  <figure class="col-6">
-    {{< imgproc rosaGallica Resize "500x" >}}
-  </figure>
 </section>
 
 

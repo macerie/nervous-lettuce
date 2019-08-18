@@ -19,6 +19,8 @@ html{overflow-y:scroll}
 .bottom-page a,.bottom-page a:visited,.bottom-page a:hover{border-bottom:0;}
 .toc{width:100%;padding:2em;}
 .toc a{width:100%}
+.note.min{padding:.5em;padding-left:1.3em;font-size:.95em;line-height:1.6em;}
+.greennote{background:rgb(211, 240, 201)!important;border-left-color:#4CA22F!important}
 .fw{width:100%}
 p.npp{font-size:90%;border-top:1px #999 dotted;margin-top:2.5em}
 a.npp, p.npp a{border-bottom:0}
