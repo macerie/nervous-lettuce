@@ -3,7 +3,7 @@ title: Informatica
 menu:
   main:
     name: Docs
-    weight: 2
+    weight: 18
 layout: docs
 draft: false
 ---

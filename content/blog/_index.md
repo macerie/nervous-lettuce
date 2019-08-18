@@ -5,7 +5,7 @@ img_path: /images/3.jpg
 menu:
   main:
     name: News & Tips
-    weight: 3
+    weight: 12
 layout: blog
 ---
 
