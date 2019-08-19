@@ -1,44 +1,44 @@
 ---
 title: I nostri ortaggi
 subtitle: la natura buona. 
-img_path: /images/basilico-head.jpg
+img_path: basilico-head.jpg
 items:
   - title: Bietole
     subtitle: Verdura semplice ma eclettica.
-    preview_img: /images/bietola-dettaglio.jpg
+    preview_img: bietola-dettaglio.jpg
     url: '#'
   - title: Zucche
     subtitle: Halloween... e non solo.
-    preview_img: /images/zucca.jpg
+    preview_img: zucca.jpg
     url: '#'
   - title: Piselli
     subtitle: Ricchi di fosforo e poco calorici. 
-    preview_img: /images/piselli-min.jpg
+    preview_img: piselli-min.jpg
     url: '#'    
   - title: Topinambur
     subtitle: Un tubero dalle mille proprietà.
-    preview_img: /images/topinambur-piante.jpg
+    preview_img: topinambur-piante.jpg
     url: '#'    
   - title: Patate
     subtitle: L'altro pane.
-    preview_img: /images/patate-secchio.jpg
+    preview_img: patate-secchio.jpg
     url: '#'
   - title: Fagiolini
     subtitle: Indispensabili per il polpettone.
-    preview_img: /images/fagiolini2.jpg
+    preview_img: fagiolini2.jpg
   - title: Pomodori
     subtitle: Saporiti cotti e crudi.
-    preview_img: /images/pomodori-min.jpg
+    preview_img: pomodori-min.jpg
   - title: Cipolle
     subtitle: Sapore antico ed universale.
-    preview_img: /images/cipolle-min.jpg
+    preview_img: cipolle-min.jpg
   - title: Fave
     subtitle: Un pieno di proteine.
-    preview_img: /images/fave-min.jpg
+    preview_img: fave-min.jpg
 menu:
   main:
     name: Ortaggi
     weight: 2
     parent: agricoltura
-layout: showcase
+layout: showcase-res
 ---

@@ -50,7 +50,7 @@ menu:
       weight: 3
     - identifier: vivaismo
       name: Vivaismo
-      url: '#'
+      url: '/vivaismo/'
       weight: 6
     - identifier: help
       weight: 999
