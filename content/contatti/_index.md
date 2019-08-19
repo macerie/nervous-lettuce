@@ -5,7 +5,7 @@ img_path: contatti/openmap.jpg
 menu:
   main:
     name: Contatti
-    weight: 10
+    weight: 22
 layout: pagesmall
 ---
 

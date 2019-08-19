@@ -1,9 +1,9 @@
 ---
 title: Informatica 
-menu:
-  main:
-    name: Docs
-    weight: 18
+#menu:
+#  main:
+#    name: Docs
+#    weight: 18
 layout: docs
 draft: false
 ---
