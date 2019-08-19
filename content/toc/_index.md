@@ -1,5 +1,5 @@
 ---
 title: Menu
 layout: toc
-menu: none
+menu: 
 ---
