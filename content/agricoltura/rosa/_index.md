@@ -43,8 +43,8 @@ layout: page
   <span style="font-size:small">Estremamente resistente, non è in genere molto spinosa, ma rami, rametti e peduncoli, di colore verde chiaro, sono ricoperti di una fitta trama di setole.</span>
   </h4>
   <p>
-  Lasciate a loro stesse, le <i>rose galliche</i> si organizzano in <b>cespugli</b> come quello in foto e così l'abbiamo ritovata - e poi sfoltita - al margini dell'incolto che aveva avvolto per anni alcuni dei nostri campi prima di iniziare le operazioni di recupero e razionalizzaizone che ancora vanno avanti.<br />
-  <mark>Le r. galliche fioriscono tra <b>maggio</b> e <b>giugno</b> e non sono rifiorenti.</mark>
+  Lasciate a loro stesse, le <i>rose galliche</i> si organizzano in <b>cespugli</b> e così l'abbiamo ritrovata - e poi sfoltita - al margini dell'incolto che aveva avvolto per anni alcuni dei nostri campi prima di iniziare le operazioni di recupero che ancora vanno avanti. Le stiamo ora allevando anche in <b>filari</b>, in <b>vaso</b> e come <b>bordura</b> ad altre colture.<br />
+  <mark>Le <i>galliche</i> fioriscono tra <b>maggio</b> e <b>giugno</b> e non sono rifiorenti.</mark>
   </p>
 </section>
 <section style="margin-bottom:5em">
