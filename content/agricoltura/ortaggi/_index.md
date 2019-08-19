@@ -28,7 +28,7 @@ items:
     preview_img: fagiolini2.jpg
   - title: Pomodori
     subtitle: Saporiti cotti e crudi.
-    preview_img: pomodori-min.jpg
+    preview_img: pomodoro.jpg
   - title: Cipolle
     subtitle: Sapore antico ed universale.
     preview_img: cipolle-min.jpg

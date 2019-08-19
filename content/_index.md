@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Scopri di più
-        url: docs/
+        url: '#'
     component: hero_home.html
     content: 'Con un''altra **terra** in mente, con un''altra **mente** in terra.'
     subtitle: >- 
@@ -45,9 +45,9 @@ sections:
     section_id: Attività
     type: featuresblock
   - actions:
-      - label: '📞 328.20.12.672'
+      - label: 'Telefona al 328.20.12.672'
         url: 'tel:+393282012672'
-      - label: '📧 Scrivi'
+      - label: 'Scrivici'
         url: 'mailto:contact+web@verderam.com?subject=Richiesta di contatto'
     component: content_block.html
     content: >-
@@ -60,6 +60,16 @@ sections:
     section_id: text-img
     title: Agricoltura e florovivaismo
     type: contentblock
+  - actions:
+      - label: 'Le nostre competenze'
+        url: '/informatica/skills/'
+    component: content_block_right.html
+    content: >-
+      **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** ed i giusti **strumenti** per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
+    image: /images/cappelloSwitch.jpg
+    section_id: text-img
+    title: 'Consulenza informatica<br /> e sviluppo software'
+    type: contentblockrightugo
   - actions:
       - label: Prenota qui!
         url: tel:+393282012672

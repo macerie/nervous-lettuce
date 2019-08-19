@@ -9,7 +9,7 @@
         <h1 class="post-title">{{ .Params.title }}</h1>
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
-          {{ .Params.subtitle | safeHTML }}
+          {{ partial "markdownify-block" .Params.subtitle }}
         </div><!-- .post-subtitle -->
         {{ end }}
       </div><!-- .inner-small -->

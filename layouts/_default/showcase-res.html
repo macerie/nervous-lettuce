@@ -21,12 +21,12 @@
               {{ $img := $.Page.Resources.GetMatch $item.preview_img }}          
             <a class="block-item-preview" href="{{ $item.url }}">
                 {{ if $img }}
-                  {{ $min := $img.Resize "374x"  }}
+                  {{ $min := $img.Fill "374x281"  }}
                   <img loading="lazy" class="thumbnail res"  src="{{ $min.RelPermalink }}" width="{{ $min.Width }}" height="{{ $min.Height }}" />
                 {{ else }}
                   {{ $imgPage := $.Site.GetPage "/images" }}
                   {{ $imgp := $imgPage.Resources.GetMatch $item.preview_img }}
-                  {{ $min := $imgp.Resize "374x"  }}
+                  {{ $min := $imgp.Fill "374x281"  }}
                   <img loading="lazy" class="thumbnail res"  src="{{ $min.RelPermalink }}" width="{{ $min.Width }}" height="{{ $min.Height }}" />
                 {{ end }}
             </a>
