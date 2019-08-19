@@ -15,8 +15,12 @@
         {{ end }}
       </div><!-- .block-content -->
       {{ if .section.image }}
+      {{ $img := .section.image }}
+      {{ $imgPage := $.Site.GetPage "/images" }}
+      {{ $imgp := $imgPage.Resources.GetMatch $img }}
+      {{ $min := $imgp.Fill "517x388 95q"  }}
       <div class="block-preview">
-        <img loading="lazy" class="thumbnail" src="{{ .section.image | relURL }}" alt="{{ .section.title }}" style="float:right" />
+        <img loading="lazy" class="thumbnail" src="{{ $min.RelPermalink }}" alt="{{ $img }}" style="float:right" height="388" width="517" />
       </div>      
       {{ end }}
     </div><!-- .block-inside -->

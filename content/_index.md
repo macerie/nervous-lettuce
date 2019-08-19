@@ -56,8 +56,8 @@ sections:
       <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istituzionale del Comune di Chiavari">Chiavari</a> 
       e di <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">Leivi</a>, in provincia di
       **Genova**. <br /> Per venire a trovarci in **campo** o in **vivaio**  [**telefona**](tel:+393282012672) al numero **328.20.12.672** oppure [**scrivi un'email**](mailto:contact+web@verderam.com?subject=Richiesta di contatto) per concordare un appuntamento.<br />Se preferisci puoi anche avviare una chat <a href="https://t.me/macerie5" target="_blank" title="Telegram">Telegram</a> o <a href="https://wa.me/393282012672" target="_blank" title="Whatsapp">Whatsapp</a>.
-    image: /images/biotr.jpg
-    section_id: text-img
+    image: 'biotr.jpg'
+    section_id: text-img1
     title: Agricoltura e florovivaismo
     type: contentblock
   - actions:
@@ -66,10 +66,10 @@ sections:
     component: content_block_right.html
     content: >-
       **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** ed i giusti **strumenti** per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
-    image: /images/cappelloSwitch.jpg
-    section_id: text-img
+    image: 'cappelloSwitch.jpg'
+    section_id: text-img2
     title: 'Consulenza informatica<br /> e sviluppo software'
-    type: contentblockrightugo
+    type: contentblock
   - actions:
       - label: Prenota qui!
         url: tel:+393282012672
