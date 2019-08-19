@@ -65,7 +65,7 @@ sections:
         url: '/informatica/skills/'
     component: content_block_right.html
     content: >-
-      **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** ed i giusti **strumenti** per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
+      **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** e gli **strumenti** più adatti per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
     image: 'cappelloSwitch.jpg'
     section_id: text-img2
     title: 'Consulenza informatica<br /> e sviluppo software'

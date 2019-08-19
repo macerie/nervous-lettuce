@@ -1,6 +1,6 @@
 <section id="{{ .section.section_id }}" class="block text-block outer">
   <div class="inner">
-    <div class="block-inside">
+    <div class="block-inside" style="clear:both">
       <div class="block-content">
         <h2 class="block-title">{{ .section.title | safeHTML }}</h2>
         <div class="block-text">
@@ -21,7 +21,7 @@
       {{ $min := $imgp.Fill "517x388 95q"  }}
       <div class="block-preview">
         <img loading="lazy" class="thumbnail" src="{{ $min.RelPermalink }}" alt="{{ $img }}" style="float:right" height="388" width="517" />
-      </div>      
+      </div>
       {{ end }}
     </div><!-- .block-inside -->
   </div><!-- .inner -->
