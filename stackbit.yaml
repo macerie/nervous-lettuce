@@ -4,7 +4,7 @@ ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
-uploadDir: images
+uploadDir: content/images
 dataDir: data
 pagesDir: content
 pageLayoutKey: layout

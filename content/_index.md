@@ -35,7 +35,7 @@ sections:
         title: '🌻 Vivaismo '
       - actions:
           - label: Le competenze
-            url: informatica/skills/
+            url: /skills
         content: >-
           Teniamo moltissimo ad **informatizzare** ed
           **automatizzare** i processi di **produzione** e di **gestione** delle
