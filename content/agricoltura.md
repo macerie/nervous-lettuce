@@ -2,7 +2,7 @@
 title: Agricoltura
 menu: false
 subtitle: Cosa coltiviamo
-img_path: olive-head.jpg
+img_path: /images/olive-head.jpg
 items:
   - title: Ulivo
     preview_img: olive-min.jpg

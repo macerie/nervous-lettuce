@@ -1,7 +1,7 @@
 ---
 title: I nostri ortaggi
 subtitle: la natura buona. 
-img_path: basilico-head.jpg
+img_path: /images/basilico-head.jpg
 items:
   - title: Bietole
     subtitle: Verdura semplice ma eclettica.

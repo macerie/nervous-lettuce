@@ -1,7 +1,7 @@
 ---
 title: Contatti
 subtitle: Come contattarci, dove trovarci e come raggiungerci. 
-img_path: contatti/openmap.jpg
+img_path: /images/openmap.jpg
 menu:
   main:
     name: Contatti
@@ -55,7 +55,7 @@ La <a href="https://www.trenitalia.com/" target="_blank" title="Trenitalia - Ora
 Si raccomanda l'uscita di **Chiavari** dell'autostrada A12, quindi di proseguire in direzione **Sampierdicanne** ed infine - a seconda dei casi - salire verso la Scuola elementare di <a href="https://goo.gl/maps/TpXAxfntzStcx3Zn8" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">Leivi</a> o gli insediamenti produttivi di <a href="https://goo.gl/maps/yxUfHdUPh8qrvbZCA" data-no-instant target="_blank" title="Visualizza la mappa ed ottieni indicazioni stradali">San Terenziano</a>. <br />
 <figure class="ac">
 <a href="https://osm.org/go/xX2DuMqU--?m=" target="_blank" title="clicca sull'immagine per visualizzare la cartina stradale">
-  <img loading="lazy" src="openmap.jpg" alt="" />
+  <img loading="lazy" src="/images/openmap.jpg" alt="" />
   </a>
 </figure>
 <p class="ac">
