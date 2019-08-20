@@ -57,7 +57,7 @@ sections:
       e di <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">Leivi</a>, in provincia di
       **Genova**. <br /> Per venire a trovarci in **campo** o in **vivaio**  [**telefona**](tel:+393282012672) al numero **328.20.12.672** oppure [**scrivi un'email**](mailto:contact+web@verderam.com?subject=Richiesta di contatto) per concordare un appuntamento.<br />Se preferisci puoi anche avviare una chat <a href="https://t.me/macerie5" target="_blank" title="Telegram">Telegram</a> o <a href="https://wa.me/393282012672" target="_blank" title="Whatsapp">Whatsapp</a>.
     image: 'biotr.jpg'
-    section_id: text-img1
+    section_id: text-img
     title: Agricoltura e florovivaismo
     type: contentblock
   - actions:
@@ -67,18 +67,18 @@ sections:
     content: >-
       **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** e gli **strumenti** più adatti per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
     image: 'cappelloSwitch.jpg'
-    section_id: text-img2
+    section_id: text-img02
     title: 'Consulenza informatica<br /> e sviluppo software'
     type: contentblock
-  - actions:
-      - label: Prenota qui!
-        url: tel:+393282012672
-    component: cta_block.html
-    section_id: cta
-    subtitle: >-
-      Chiamaci o scrivici subito per prenotare ora il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
-    title: E' tempo di far scorta di legna per l'inverno!
-    type: ctablock
+#  - actions:
+#      - label: Prenota qui!
+#        url: 'tel:+393282012672'
+#    component: cta_block.html
+#    section_id: cta
+#    subtitle: >-
+#      Chiamaci o scrivici subito per prenotare ora il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
+#    title: E' tempo di far scorta di legna per l'inverno!
+#    type: ctablock
 menu:
   main:
     name: Home
