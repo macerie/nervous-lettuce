@@ -2,6 +2,7 @@ title: 'Agricoltura, vivaismo ed informatica'
 baseURL: /
 defaultContentLanguage: "it"
 defaultContentLanguageInSubdir: false
+theme: "vr01"
 languages:
  it:
   lang: "it"
@@ -65,5 +66,5 @@ disableKinds:
 enableEmoji: true
 imaging:
   resampleFilter: 'box'
-  quality: 75
+  quality: 95
   anchor: 'smart'
