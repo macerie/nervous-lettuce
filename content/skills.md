@@ -62,7 +62,7 @@ menu:
     name: Skills
     weight: 4
     parent: informatica
-layout: showcase
+layout: showcase-res
 ---
 
 <!-- Monitoring, Managment, Containers, Sviluppo, embedded, terminal (smart work & edu) 

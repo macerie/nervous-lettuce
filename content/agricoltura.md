@@ -9,13 +9,13 @@ items:
     url: '/ulivo/'
   - title: Ortaggi
     preview_img: cipolle-min.jpg
-    url: 'ortaggi/'    
+    url: '/ortaggi/'    
   - title: Agrumi
     preview_img: kumquat-min.jpg
-    url: 'agrumi/'
+    url: '/agrumi/'
   - title: Rose da Sciroppo
     preview_img: rose-min.jpg
-    url: 'rosa/'
+    url: '/rosa/'
   - title: Erbe aromatiche
     preview_img: rosmarino-min.jpg
     url: '#'    

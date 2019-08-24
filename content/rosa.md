@@ -19,7 +19,7 @@ layout: page
     <span style="font-size:small">Come districarsi tra rosa <i>gallica</i>, <i>gallica officinalis</i> e  <i>versicolor</i></span>
   </h4>
   <p>
-    Coltiviamo in <b>vaso</b> ed in <b>pieno campo</b> antiche varietà autoctone di <b>rose</b>, tra cui la profumatissima <strong><i>rosa gallica officinalis</i></strong>, dalle ancestrali origini e dai <b>fiori profumatissimi</b> e dai cui petali è tradizione ricavare <b>sciroppi</b> e <b>marmellate</b>.
+    Coltiviamo in <b>vaso</b> ed in <b>pieno campo</b> antiche varietà autoctone di <b>rose</b>, tra cui la profumatissima <strong><i>rosa gallica officinalis</i></strong>, dalle ancestrali origini e dai <b>fiori profumatissimi</b>, dai cui petali è tradizione ricavare <b>sciroppi</b> e <b>marmellate</b>.
   </p>
   <div class="important min">
     La famiglia delle <b>Rose Galliche</b> comprende: 

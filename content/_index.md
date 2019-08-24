@@ -19,11 +19,12 @@ sections:
             url: agricoltura
         content: >-
           Coltiviamo gli **ulivi** per produrre **olive da olio**; gli **orti**
-          per ricavarne **piccoli frutti**, **pomodori**, **bietole**, **patate**,
-          **zucche**, **topinambur**, **cipolle**, tanti altri **_ortaggi di stagione_** e gli **agrumi**
-          come **limoni**, **pompelmi** e **kumquat** nelle colline più esposte al
+          per ricavarne **pomodori**, **bietole**, **patate**, **zucche**, **topinambur**, **cipolle** e tanti altri **_ortaggi di stagione_**. Cogliamo **piccoli frutti** ed **agrumi**
+          come **pompelmi** e **kumquat** nelle colline più esposte al
           sole ed al riparo dal vento.
         title: '🍓 Agricoltura ' 
+        id: agricoltura
+        image: pomodoro.jpg
       - actions:
           - label: Le piante
             url: vivaismo/
@@ -33,6 +34,8 @@ sections:
           piante per poter fornire **fronda recisa** all'ingrosso ed al
           dettaglio.
         title: '🌻 Vivaismo '
+        id: vivaismo
+        image: cervara.jpg
       - actions:
           - label: Le competenze
             url: /skills
@@ -42,6 +45,8 @@ sections:
           **colture**.<br /> Forniamo ad altre aziende (agricole e non) **consulenza informatica** per la
           progettazione e l'amministrazione semplificata di **reti** e di **sistemi**.
         title: '📀 Informatica'
+        id: informatica
+        image: 3.jpg
     section_id: Attività
     type: featuresblock
   - actions:
@@ -51,7 +56,7 @@ sections:
         url: 'mailto:contact+web@verderam.com?subject=Richiesta di contatto'
     component: content_block.html
     content: >-
-      **VerdeRAM** è, prima di tutto, un'azienda **agricola**, **olivicola** e **florovivaistica**
+      **VerdeRAM** è, prima di tutto, un'azienda [**agricola**](/agricoltura/), [**olivicola**](/ulivo/) e [**florovivaistica**](/vivaismo/)
       distributa sul territorio dei comuni di
       <a href="http://www.comune.chiavari.ge.it" target="_blank" title="Sito istituzionale del Comune di Chiavari">Chiavari</a> 
       e di <a href="http://www.comune.leivi.ge.it" target="_blank" title="Sito istituzionale del Comune di Leivi">Leivi</a>, in provincia di
@@ -60,16 +65,18 @@ sections:
     section_id: text-img
     title: Agricoltura e florovivaismo
     type: contentblock
+    cl: agricoltura
   - actions:
       - label: 'Le nostre competenze'
-        url: '/informatica/skills/'
+        url: '/skills/'
     component: content_block_right.html
     content: >-
-      **VerdeRAM** è anche un'azienda di **consulenza informatica** in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** e gli **strumenti** più adatti per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
+      **VerdeRAM** è anche un'azienda di [**consulenza informatica**](#/informatica/) in grado di fornire ad aziende, scuole ed enti il **supporto tecnico** e gli **strumenti** più adatti per entrare con il piede giusto nel mondo del **networking**, dell'**automazione** e dell'**internet delle cose** e gestire centralmente e con semplicità ogni componente della propria **struttura produttiva digitale**.
     image: 'cappelloSwitch.jpg'
     section_id: text-img02
     title: 'Consulenza informatica<br /> e sviluppo software'
     type: contentblock
+    cl: informatica    
 #  - actions:
 #      - label: Prenota qui!
 #        url: 'tel:+393282012672'
@@ -79,10 +86,10 @@ sections:
 #      Chiamaci o scrivici subito per prenotare ora il ritiro in campo o la consegna a domicilio:<br /> la disponibilità di legna d'ulivo è limitata!
 #    title: E' tempo di far scorta di legna per l'inverno!
 #    type: ctablock
-menu:
-  main:
-    name: Home
-    weight: 1
+#menu:
+#  main:
+#    name: Home
+#    weight: 1
 layout: home
 ---
 

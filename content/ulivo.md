@@ -71,7 +71,7 @@ Forse, in futturo, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884761
   Per questa e per tante altre ragioni abbiamo fatto la scelta dolorosissima di **riformare** drasticamente gli uliveti per poi accompagnarli ad acquisire una <b>forma di allevamento tutta nuova</b>. Ascoltandoli e abbassando il capo a nostra volta per imparare da loro **speranza** e **resilienza**. 
 </div>
 {{< imgproc scricciOlive Resize "1030x" >}}
-<p class="npp" id="npp01">
+<p class="npp ac" id="npp01">
   <a href="#ulivovite" class="npp">*</a> 
   <a href="http://www.fabriziodeandre.it/" target="_blank">Fabrizio De André</a>, 
   <a href="http://www.fabriziodeandre.it/faber/wp-content/uploads/2016/03/Il_sogno_di_Maria.pdf" target="_blank" class="b i">"Il sogno di Maria"</a>, 
