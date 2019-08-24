@@ -7,9 +7,9 @@
 </style>
 <table class="toc" style="width:100%;">
     {{ range $item := $menu }}
-    <tr style="valign:center">
+    <tr style="vertical-align:center">
       <td class="ac" valign="center";style="vertical-align:center;height:4em;line-height:4em">
-        <a class="b" href="{{ if strings.HasPrefix $item.URL "#" }}{{ $item.URL }}{{ else }}{{ $item.URL | relURL }}{{ end }}">
+        <a class="b" href='{{ if strings.HasPrefix $item.URL "#" }}{{ $item.URL }}{{ else }}{{ $item.URL | relURL }}{{ end }}'>
             {{ $item.Name }}
           </a>
       </td>
