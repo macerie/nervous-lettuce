@@ -59,10 +59,8 @@ pre{background:#f1f1f1;padding:1em}
 .hero-cnt h3{margin-bottom:2em}
 .hero-home{background-image:url(/images/bouganville01.jpg);}
 .cnt-blk{margin: 6em auto;padding-top:3em;padding-bottom:3em}
-/*
-.cnt-blk.agricoltura{background-color:rgb(195, 236, 182);color:#000}
-.cnt-blk.informatica{background-color:rgb(200, 222, 248);color:#000}
-*/
+.bg-agri{background-color:rgb(195, 236, 182);color:#000}
+.bg-info{background-color:rgb(200, 222, 248);color:#000}
 .home .cnt-blk{background:#fff;font-size:1.1em}
 .home .agricoltura h2{border-bottom:1px #4ca22f dotted;padding-bottom:1em}
 .home .informatica h2{border-bottom:1px #3689E6 dotted;padding-bottom:1em}

@@ -14,9 +14,9 @@ layout: page
 
 <section class="flex" style="margin-bottom:5em">
   <div style="padding-right:2em">
-    <h4>Tesoro tramandato
+    <h3>Tesoro tramandato
     <br /><span style="font-size:small">Leivi è "il paese dell'Olio"</span>
-    </h4>
+    </h3>
     <p>
       Quella dell'<b>Ulivo</b> è, per ragioni storiche, la coltura <b>territorialmente più estesa</b>. A <a href="http://www.comune.leivi.ge.it/economia-e-lavoro/creare-nuove-imprese/417-il-paese-dell-olio.html" target="_blank" title="Leivi Paese dell'Olio">Leivi</a> infatti, come in buona parte della Liguria, ogni collina con una buona esposizione al sole è stata, nel corso dei secoli, piantumata a ulivi e le nostre non fanno certo eccezione: come nel resto del paese la <i>cultivar</i> <b>Lavagnina</b>, da cui ricaviamo <b>olive da olio</b>, arriva ad occupare, anche in <b>consociazione</b> con altre colture, quasi <mark>l'80% della superficie coltivabile</mark>.
     </p>
@@ -28,9 +28,9 @@ layout: page
     {{< imgproc ceppoUlivo Resize "520x" >}}
   </figure>
   <div style="padding-left:2em">
-    <h4>Quattocento e rotti anni e non sentirli
+    <h3>Trecento e rotti anni e non sentirli
       <br /><span style="font-size:small">Il vigore del legno e la generosità del frutto</span>
-    </h4>
+    </h3>
     <p>
       La pianta d'ulivo è un <b>sempreverde</b> che <b>vegeta continuamente</b> ma <b>cresce con lentezza</b> e la cui <b>produttività non risente dell'invecchiamento</b>.
     <div class="note min greennote" style="margin:0">
@@ -42,9 +42,9 @@ layout: page
 
 <section class="flex" style="margin-bottom:3em">
   <div style="padding-right:2em">
-    <h4>Come l'araba fenice
+    <h3>Come l'araba fenice
     <br /><span style="font-size:small">E' in grado di resistere alla siccità e agli incendi</span>
-    </h4>
+    </h3>
     <p>
      L'<b>Ulivo</b> reagisce alle avversità che può  incontrare nel territorio di cui è tipico <b>riducendo</b> al minimo ogni <b>attività produttiva</b> e riservando alla <b>sopravvivenza</b> ogni risorsa. A gelo e siccità sacrifica prima i frutti e poi l'apparato aereo, ma il più delle volte riesce a <b>rigettare dalla propria ceppaia</b> ed avviare un nuovo ciclo vitale.
      <div class="note min" style="margin:-1em 0 1em 0">
@@ -58,10 +58,10 @@ layout: page
   </figure>
 </section>
 
-<h4 id="ulivovite">
+<h3 id="ulivovite">
   Dove all'ulivo si abbraccia la vite<a class="npp" href="#npp01">*</a><br />
   <span style="font-size:small"><i>"Dono di Atena agli uomini"</i>, l'ulivo ha migrato per mano dei Cretesi in tutto il mediterraneo, integrandosi praticamente ovunque con colture preesistenti e successive</span>
-</h4>
+</h3>
 
 In Liguria, tradizionamente, la pianta d'ulivo - che per natura ha un portamento a cespuglio - veniva allevata a **vaso alberato** e lasciata sviluppare enormemente, fino ad **altezze di oltre 15 metri**.<br />
 Tale pratica agricola, in un'economia costretta a estrinsecarsi quasi per intero in un fazzoletto di terra, era né più né meno **questione di vita o di morte**. Occorreva infatti che l'ulivo guadagnasse il cielo per **lasciar posto, a terra, a tutte le altre colture** ed in particolare a quanto, di indispensabile, non sempre poteva essere importato: soprattutto il **frumento**, quindi, ma anche la **vite** (che fino ai primi anni del '900 veniva in genere fatta arrampicare sugli ulivi), le piante aromatiche, il **basilico**, il prezzemolo... <br />
