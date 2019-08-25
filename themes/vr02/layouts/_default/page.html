@@ -8,8 +8,8 @@
             {{ $img := $imgPage.Resources.GetMatch .Params.cover }}
             {{ if $img }}
               {{ $min := $img.Fill "480x360"  }}
-              <figure class="cover hs" style="margin:-7em 0 7em 0;transform:translateX(4.5em)">
-                <img loading="lazy" class="res sh brd dx rdx" src="{{ $min.RelPermalink }}" width="{{ $min.Width }}" height="{{ $min.Height }}" />
+              <figure class="cover hs" style="margin:-7em 0 11em 0;transform:translateX(4.5em)">
+                <img loading="lazy" class="oz res sh brd dx rdx" src="{{ $min.RelPermalink }}" width="{{ $min.Width }}" height="{{ $min.Height }}" />
               </figure>
             {{ end }}
       {{ end }}

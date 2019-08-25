@@ -59,7 +59,7 @@ layout: page
 </section>
 
 <h4 id="ulivovite">
-  "Dove all'ulivo si abbraccia la vite"<a class="npp" href="#npp01">*</a><br />
+  Dove all'ulivo si abbraccia la vite<a class="npp" href="#npp01">*</a><br />
   <span style="font-size:small"><i>"Dono di Atena agli uomini"</i>, l'ulivo ha migrato per mano dei Cretesi in tutto il mediterraneo, integrandosi praticamente ovunque con colture preesistenti e successive</span>
 </h4>
 
@@ -69,14 +69,14 @@ Forse, in futturo, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884761
 <div class="note min" style="margin:0 0 2em 0">
   Per questa e per tante altre ragioni abbiamo fatto la scelta dolorosissima di **riformare** drasticamente gli uliveti per poi accompagnarli ad acquisire una <b>forma di allevamento tutta nuova</b>. Ascoltandoli e abbassando il capo a nostra volta per imparare da loro **speranza** e **resilienza**. 
 </div>
-<figure class="brd hs">
+<figure class="brd sh hs">
   {{< imgproc scricciOlive Resize "1040x" >}}
 </figure>
 <p class="npp ac" id="npp01">
   <a href="#ulivovite" class="npp">*</a> 
   <a href="http://www.fabriziodeandre.it/" target="_blank">Fabrizio De André</a>, 
-  <a href="http://www.fabriziodeandre.it/faber/wp-content/uploads/2016/03/Il_sogno_di_Maria.pdf" target="_blank" class="b i">"Il sogno di Maria"</a>, 
-  in <a href="http://www.fabriziodeandre.it/portfolio/la-buona-novella/" target="_blank" class="i">"La Buona Novella"</a>, 1970 
+  <a href="http://www.fabriziodeandre.it/faber/wp-content/uploads/2016/03/Il_sogno_di_Maria.pdf" target="_blank" class="b">"Il sogno di Maria"</a>, 
+  in <a href="http://www.fabriziodeandre.it/portfolio/la-buona-novella/" target="_blank">"La Buona Novella"</a>, 1970 
   <small>
     <a href="https://youtu.be/qXEAvoKd6hk" target="_blank">[video]</a>
   </small>.

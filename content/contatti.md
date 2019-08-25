@@ -4,11 +4,18 @@ subtitle: >-
   Come contattarci, dove trovarci e come raggiungerci. <br />
   <a style="font-size:.8rem;font-weight:80;color:gold" href="https://www.iperiusremote.it/" target="_blank" >♜ Assistenza remota ♜</a>
 img_path: /images/openmap.jpg
+cit:
+  text: >- 
+    Chiamateci col telefono<br />vi risponderemo prestissimo.
+  auth: I. Fossati
+  title: Ventilazione
+  in: Ventilazione, 1984
+  lnk: http://www.ivanofossati.it/lyrics.php
 menu:
   main:
     name: Contatti
     weight: 22
-layout: pagesmall
+layout: page
 ---
 
 ### :phone: Recapiti

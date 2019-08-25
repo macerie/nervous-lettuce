@@ -68,8 +68,11 @@ pre{background:#f1f1f1;padding:1em}
 .home .informatica h2{border-bottom:1px #3689E6 dotted;padding-bottom:1em}
 .showcase section{width:33%;padding:1em}
 .txt{line-height:1.875}
-.txt h2{font-size:2.4em;margin-bottom:1em;font-weight:100;line-height:1.2}
-.txt h4{font-size:1.5rem;margin-bottom:1em;line-height:1.2}
+.txt h1, .txt h2, .txt h3, .txt h4{font-weight:100;line-height:1.2;margin:1em 0 .5em 0}
+.txt h1{font-size:3em;margin:0 0 1em 0;font-weight:900}
+.txt h2{font-size:2.4em;color:#4CA22F;font-weight:75}
+.txt h3{font-size:2em;}
+.txt h4{font-size:1.5rem;}
 .txt p{margin-bottom:1em;}
 .txt li{margin-left:1em}
 .txt ul{margin: 1em 0 1em 0}
@@ -85,6 +88,7 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .card, .block-item{padding:1em;background:#fff;border-radius: 3px;box-shadow:0 1px 3px rgba(0, 0, 0, .12),0 1px 2px rgba(0, 0, 0, .24);}
 .note {background: #fff7e6;border-left: 5px solid #fcb41d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
 .important {background: #ffe9e6;border-left: 5px solid #fc381d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
+.evid{background:#f1f1f1;padding:1em;color:#111}
 .note.min, .important.min{padding:.5em;padding-left:1.3em;font-size:.95em;line-height:1.6em;}
 .greennote{background:rgb(211, 240, 201)!important;border-left-color:#4CA22F!important}
 .rednote{background-color:#ffe9e6!important;border-left-color:#fc381d!important}
@@ -99,8 +103,8 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .tbl{display:table}
 .tr{display:table-row}
 .td{display:table-cell;vertical-align:middle}
-.oz:hover{transform:scale(1.2,1.2)}
 .cit{font-family:"Palatino Linotype", "Book Antiqua", "Palatino", serif;}
+p.npp{font-size:90%;border-top:1px #999 dotted;margin-top:2.5em}
 
 @media (max-width: 1025px){
      body{zoom:.8}
@@ -122,6 +126,7 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
     .hs{visibility: hidden;display: none;height: 0;width: 0}    
   }
   @media (min-width: 1025px){
+    .oz:hover{cursor:zoom-out;transform:scale(1.4,1.4)}
     .pg{padding-top:48px}
     .brd{border:.8em #fff solid}
     .cnt-blk .thumbnail{margin-top:-6em}
@@ -163,5 +168,6 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .titles{padding:1em;width:100%;background:#000;opacity:0.5}
 .titles p{color: gold;}
 */
-
+.b{font-weight:bold}
+.i{font-style:italic}
 .h{visibility: hidden;display: none;height: 0;width:0}
