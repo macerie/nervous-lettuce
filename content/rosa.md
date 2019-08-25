@@ -2,7 +2,7 @@
 title: Rose da sciroppo
 subtitle: Rosa Gallica Officinalis ed altre varietà antiche locali
 img_path: /images/rose-head.jpg
-
+cover: rosaGallica.jpg
 menu:
   main:
     name: Rose da scrippo
@@ -12,9 +12,6 @@ layout: page
 ---
 
 <section style="margin-bottom:5em">
-  <figure class="dx sh" style="margin: 0 0 1em 2em">
-    {{< imgproc rosaGallica Resize "500x" >}}
-  </figure>
   <h4>Nel nome della rosa<br />
     <span style="font-size:small">Come districarsi tra rosa <i>gallica</i>, <i>gallica officinalis</i> e  <i>versicolor</i></span>
   </h4>
@@ -35,7 +32,7 @@ layout: page
   </p>
 </section>
 <section style="margin-bottom:5em">
-  <figure class="sh" style="margin: 0 2em 1em 0;float:left">
+  <figure class="sh brd" style="margin: 0 2em 1em 0;float:left">
     {{< imgproc cespuglioRose Resize "500x" >}}
   </figure>
   <h4>

@@ -1,7 +1,9 @@
 ---
+name: ulivo
 title: L'Ulivo
 subtitle: '<i>Olea Europea</i>'
 img_path: /images/olive-head.jpg
+cover: ulivoMare.jpg
 menu:
   main:
     name: Ulivo
@@ -19,14 +21,11 @@ layout: page
       Quella dell'<b>Ulivo</b> è, per ragioni storiche, la coltura <b>territorialmente più estesa</b>. A <a href="http://www.comune.leivi.ge.it/economia-e-lavoro/creare-nuove-imprese/417-il-paese-dell-olio.html" target="_blank" title="Leivi Paese dell'Olio">Leivi</a> infatti, come in buona parte della Liguria, ogni collina con una buona esposizione al sole è stata, nel corso dei secoli, piantumata a ulivi e le nostre non fanno certo eccezione: come nel resto del paese la <i>cultivar</i> <b>Lavagnina</b>, da cui ricaviamo <b>olive da olio</b>, arriva ad occupare, anche in <b>consociazione</b> con altre colture, quasi <mark>l'80% della superficie coltivabile</mark>.
     </p>
   </div>
-  <figure class="col-6">
-    {{< imgproc ulivoMare Resize "500x" >}}
-  </figure>
 </section>
 
 <section class="flex" style="margin-bottom:5em">
-  <figure class="col-6">
-    {{< imgproc ceppoUlivo Resize "500x" >}}
+  <figure class="col-6 brd sh">
+    {{< imgproc ceppoUlivo Resize "520x" >}}
   </figure>
   <div style="padding-left:2em">
     <h4>Quattocento e rotti anni e non sentirli
@@ -54,8 +53,8 @@ layout: page
      <div class="ac" style="font-size:small">(e allora chissà che non riesca a tollerare persino i potatori più maldestri!)</div>
     </p>
   </div>
-  <figure class="col-6">
-    {{< imgproc ceppoFiore Resize "500x" >}}
+  <figure class="col-6 brd sh">
+    {{< imgproc ceppoFiore Resize "520x" >}}
   </figure>
 </section>
 
@@ -70,7 +69,9 @@ Forse, in futturo, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884761
 <div class="note min" style="margin:0 0 2em 0">
   Per questa e per tante altre ragioni abbiamo fatto la scelta dolorosissima di **riformare** drasticamente gli uliveti per poi accompagnarli ad acquisire una <b>forma di allevamento tutta nuova</b>. Ascoltandoli e abbassando il capo a nostra volta per imparare da loro **speranza** e **resilienza**. 
 </div>
-{{< imgproc scricciOlive Resize "1030x" >}}
+<figure class="brd hs">
+  {{< imgproc scricciOlive Resize "1040x" >}}
+</figure>
 <p class="npp ac" id="npp01">
   <a href="#ulivovite" class="npp">*</a> 
   <a href="http://www.fabriziodeandre.it/" target="_blank">Fabrizio De André</a>, 

@@ -5,6 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <!-- <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,300italic,400italic|Droid+Sans|Raleway:100,800|Roboto+Mono" /> -->
+        <link rel="stylesheet" href="/assets/css/icn.css" />
         <link rel="stylesheet" href="/assets/css/vr.css" />
         <!--[if IE]>
           <link rel="stylesheet" href="/assets/css/ie.css" />
@@ -19,7 +20,7 @@
     </head>
     <body>
         {{ block "body" .}}
-        <div id="page" class="site {{ if .Title }}{{ .Title |lower }}{{ end }}">
+        <div id="page" class="site {{ if .Title }}{{ .Name |lower }}{{ end }}">
           {{ partial "header.html" . }}
           <main id="content" class="main">
             {{ block "content" . }}{{ end }}

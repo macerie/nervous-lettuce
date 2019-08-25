@@ -65,6 +65,9 @@ disableKinds:
   - robotsTXT
   - "404"
 enableEmoji: true
+pluralizeListTitles: false
+paginate: 20
+verbose: true
 imaging:
   resampleFilter: 'box'
   quality: 95

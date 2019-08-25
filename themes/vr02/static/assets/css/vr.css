@@ -31,7 +31,8 @@ pre{background:#f1f1f1;padding:1em}
 .bg,.bg-img{background-repeat:no-repeat;background-position-x:center;background-position-y:center;background-position:fixed;background-size:cover;min-height:320px}
 .hdr{color:white;padding-top:2em}
 .hdr h1{font-size:3em;z-index:8}
-.hdr h2{font-size:1.7em;z-index:8;font-weight:80;line-height:120%}
+.hdr h2{font-size:1.3em;z-index:8;font-weight:60;line-height:120%}
+.hdr b{color:goldenrod}
 .flex{display:flex;justify-content: space-around;}
 .wrap{flex-wrap:wrap}
 .inner{max-width:1200px;margin:0 auto;}
@@ -47,6 +48,9 @@ pre{background:#f1f1f1;padding:1em}
 .fw{width:100%}
 .ftr{font-size:.8em;line-height:1.4em;padding:2em 0 0 0;border-top:2em #fff solid}
 .ftr .btm{padding:.5em;margin-top:2em}
+.rel{position:relative}
+.abs{position:absolute}
+.fix{position:fixed;}
 .cnt{min-height:calc(100vh - 400px)}
 .trsp{background-color:rgba(20,20,20, .5);}
 .trsp a{color:white;}
@@ -95,14 +99,18 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .tbl{display:table}
 .tr{display:table-row}
 .td{display:table-cell;vertical-align:middle}
+.oz:hover{transform:scale(1.2,1.2)}
+.cit{font-family:"Palatino Linotype", "Book Antiqua", "Palatino", serif;}
 
 @media (max-width: 1025px){
+     body{zoom:.8}
     .brd{border:.2em #fff solid}
     .showcase section{width:100%;padding:0}
     .features{margin:0}
     .features article{max-width:100%;margin:1em 0 0 1em}    
     .flex{display:block;}
     .col-4,.col-6,.col-8{width:100%!important;}
+    .padl,.padm,.pads{padding:1em .5em 1em .5em}
     .ftr{text-align:center!important;padding-top:1em}
     .th{position:relative;}
     .hero{padding:50px 0 0 0}
@@ -110,6 +118,7 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
     .vco{position:relative;top:0;left:0;transform:none;}
     .ftr article{margin-bottom:1em}    
     .ftr .psrl{margin-top:3em}    
+    .note, .important{border:0;padding:.5em;margin:0}
     .hs{visibility: hidden;display: none;height: 0;width: 0}    
   }
   @media (min-width: 1025px){
