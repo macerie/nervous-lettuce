@@ -1,5 +1,6 @@
 title: 'Agricoltura, vivaismo ed informatica'
 baseURL: /
+LanguageCode: "it_IT"
 defaultContentLanguage: "it"
 defaultContentLangageInSubdir: false
 theme: "vr02"

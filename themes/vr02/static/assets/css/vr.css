@@ -64,9 +64,9 @@ pre{background:#f1f1f1;padding:1em}
 .home .informatica h2{border-bottom:1px #3689E6 dotted;padding-bottom:1em}
 .showcase section{width:33%;padding:1em}
 .txt{line-height:1.875}
-.txt p{margin-bottom:1em;}
-.txt h2{font-size:2.4em;margin-bottom:1em;font-weight:100}
+.txt h2{font-size:2.4em;margin-bottom:1em;font-weight:100;line-height:1.2}
 .txt h4{font-size:1.5rem;margin-bottom:1em;line-height:1.2}
+.txt p{margin-bottom:1em;}
 .txt li{margin-left:1em}
 .txt ul{margin: 1em 0 1em 0}
 .features,.showcase,.page{margin-top:-5rem;margin-bottom:6rem}
@@ -78,14 +78,7 @@ nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .pg{line-height:1.875}
 .pg h3{font-size: 1.875rem;}
 .pg h6{font-size: 1.125rem;line-height: 1.2;margin: 2.25rem 0 1.125rem;}
-.card, .block-item{
-    padding:1em;
-    background:#fff;
-    border-radius: 3px;
-    box-shadow:
-        0 1px 3px rgba(0, 0, 0, .12),
-        0 1px 2px rgba(0, 0, 0, .24);
-}
+.card, .block-item{padding:1em;background:#fff;border-radius: 3px;box-shadow:0 1px 3px rgba(0, 0, 0, .12),0 1px 2px rgba(0, 0, 0, .24);}
 .note {background: #fff7e6;border-left: 5px solid #fcb41d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
 .important {background: #ffe9e6;border-left: 5px solid #fc381d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
 .note.min, .important.min{padding:.5em;padding-left:1.3em;font-size:.95em;line-height:1.6em;}
