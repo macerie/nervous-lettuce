@@ -124,7 +124,7 @@ p.npp{font-size:90%;border-top:1px #999 dotted;margin-top:2.5em}
     .hs{visibility: hidden;display: none;height: 0;width: 0}    
   }
   @media (min-width: 1025px){
-    .oz:hover{cursor:zoom-out;transform:scale(1.4,1.4)}
+    /*.oz:hover{cursor:zoom-out;transform:scale(1.4,1.4)}*/
     .pg{padding-top:48px}
     .brd{border:.8em #fff solid}
     .cnt-blk .thumbnail{margin-top:-6em}

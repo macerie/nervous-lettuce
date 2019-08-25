@@ -15,7 +15,7 @@ menu:
   main:
     name: Contatti
     weight: 22
-layout: page
+layout: pagesmall
 ---
 
 ### :phone: Recapiti
