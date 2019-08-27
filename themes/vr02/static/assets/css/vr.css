@@ -69,7 +69,7 @@ pre{background:#f1f1f1;padding:1em}
 .txt h1, .txt h2, .txt h3, .txt h4{font-weight:100;line-height:1.2;margin:1em 0 .5em 0}
 .txt h1{font-size:3em;margin:0 0 1em 0;font-weight:900}
 .txt h2{font-size:2.4em;color:#4CA22F;font-weight:75}
-.txt h3{font-size:2em;}
+.txt h3{font-size:2.4em;}
 .txt h4{font-size:1.5rem;}
 .txt p{margin-bottom:1em;}
 .txt li{margin-left:1em}
@@ -81,8 +81,6 @@ pre{background:#f1f1f1;padding:1em}
 nav a, nav a:visited,nav a:hover{font-weight: 100;margin-left:1em}
 .pg-sm{margin:-6em auto 10em auto;z-index:3;max-width:800px}
 .pg{line-height:1.875}
-.pg h3{font-size: 1.875rem;}
-.pg h6{font-size: 1.125rem;line-height: 1.2;margin: 2.25rem 0 1.125rem;}
 .card, .block-item{padding:1em;background:#fff;border-radius: 3px;box-shadow:0 1px 3px rgba(0, 0, 0, .12),0 1px 2px rgba(0, 0, 0, .24);}
 .note {background: #fff7e6;border-left: 5px solid #fcb41d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
 .important {background: #ffe9e6;border-left: 5px solid #fc381d;border-radius: 5px;color: #283040;margin-bottom: 1.875em;padding: 1em 1.125em; }
