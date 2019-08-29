@@ -8,7 +8,7 @@ menu:
   main:
     name: Ulivo
     weight: 1
-    parent: agricoltura
+    parent: Agricoltura
 layout: page
 ---
 

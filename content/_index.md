@@ -7,7 +7,7 @@ sections:
     component: hero_home.html
     content: 'Con un''altra **terra** in mente, con un''altra **mente** in terra.'
     subtitle: >- 
-      Azienda **agricola**, **florovivaistica** e di **consulenza informatica** <br />_condotta (e raccontata) da **Valerio Sanguineti**_
+      Azienda <b>agricola</b>, <b>florovivaistica</b> e di <b>consulenza informatica</b> <br /><i>condotta (e raccontata) da <b>Valerio Sanguineti</b></i>
     image: /images/hdr01.jpg
     section_id: hero
     title: VerdeRAM

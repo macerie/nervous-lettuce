@@ -57,11 +57,11 @@ items:
     url: '#'         
     ico: 'internet-mail'
 sections:   
-menu:
-  main:
-    name: Skills
-    weight: 4
-    parent: informatica
+#menu:
+#  main:
+#    name: Skills
+#    weight: 4
+#    parent: informatica
 layout: showcase-res
 ---
 

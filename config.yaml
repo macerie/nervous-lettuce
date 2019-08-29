@@ -13,10 +13,10 @@ languages:
   lang: "en"
   languageName: "English"
   weight: 2 
- fr:
-  lang: "fr"
-  languageName: "Français"
-  weight: 3
+# fr:
+#  lang: "fr"
+#  languageName: "Français"
+#  weight: 3
 params:
   palette: verderam01
   palettes:
@@ -40,26 +40,14 @@ params:
       sass:
         accent1: '#8e2de2'
         accent2: '#4a00e0'
-menu:
-  main:
-    - identifier: informatica
-      name: Informatica
-      url: '#'
-      weight: 9
-    - identifier: agricoltura
-      name: Agricoltura
-      url: '/agricoltura/'
-      weight: 3
-    - identifier: vivaismo
-      name: Vivaismo
-      url: '/vivaismo/'
-      weight: 6
-    - identifier: help
-      weight: 999
-      name: Help 🔗
-      url: 'https://www.iperiusremote.it/'
-      target: _blank
-      parent: informatica
+#menu:
+#  main:
+#    - identifier: help
+#      weight: 999
+#      name: Help 🔗
+#      url: 'https://www.iperiusremote.it/'
+#      target: _blank
+#      parent: informatica
 disableKinds:
   - RSS
   - robotsTXT

@@ -1,6 +1,9 @@
 ---
 title: Agricoltura
-menu: false
+menu:
+  main:
+    name: Agricoltura
+    weight: 3
 subtitle: Cosa coltiviamo
 img_path: /images/olive-head.jpg
 items:

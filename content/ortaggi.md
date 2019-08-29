@@ -39,6 +39,6 @@ menu:
   main:
     name: Ortaggi
     weight: 2
-    parent: agricoltura
+    parent: Agricoltura
 layout: showcase-res
 ---

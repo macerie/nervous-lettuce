@@ -16,15 +16,10 @@
       </section>    
     <h1 class="ac slogan">
       <img src="/images/vrlogo.svg" style="max-width:90%;min-width:256px;margin:1em 0 1em 0"/><br />
-      </i>Con un'altra <b>terra</b> in mente, con un'altra <b>mente</b> in terra.
+      {{ partial "markdownify-block" .section.content }}
     </h1>
     <p class="subtl ac">
-      Azienda 
-        <a href="/agricoltura/">agricola</a>, 
-        <a href="/vivaismo/">florovivaistica</a>, e di
-        <a href="/informatica/">consulenza informatica</a><br />
-        condotta (e raccontata) da 
-        <a href="#">Valerio Sanguineti</a>.
+      {{.section.subtitle |safeHTML}}
     </p>
   </div>
 </section>

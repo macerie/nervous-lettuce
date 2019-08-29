@@ -1,6 +1,9 @@
 ---
 title: Vivaismo
-menu: false
+menu:
+  main:
+    name: Vivaismo
+    weight: 6
 subtitle: Le nostre piante ornamentali, da giardino, da terrazzo e da fronda
 img_path: /images/rose-head.jpg
 items:
